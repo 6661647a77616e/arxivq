@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary innovation introduced by ArcMemo in augmenting LLMs for reasoning-intensive tasks?",
+      "options": [
+        "A. Using instance-level memory entries tied to specific queries",
+        "B. Applying retrieval-augmented generation (RAG) techniques",
+        "C. Storing concept-level abstractions that are abstracted and modular",
+        "D. Fine-tuning the model weights during inference"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Which two memory formats are explored in ArcMemo for storing abstractions?",
+      "options": [
+        "Instance-level and dynamic cheatsheet",
+        "Open-Ended (OE) and Program Synthesis (PS)",
+        "Embedding-based and structured triples",
+        "Retrieval-augmented and vector embeddings"
+      ],
+      "answer": "Open-Ended (OE) and Program Synthesis (PS)"
+    },
+    {
+      "question": "On the ARC-AGI-1 benchmark, what relative performance gain does ArcMemo-PS achieve over the no-memory baseline?",
+      "options": [
+        "About 2% relative gain",
+        "About 5% relative gain",
+        "About 7.5% relative gain",
+        "About 10% relative gain"
+      ],
+      "answer": "About 7.5% relative gain"
+    },
+    {
+      "question": "Why is concept selection important in the ArcMemo framework?",
+      "options": [
+        "To always retrieve all memories for maximum coverage",
+        "To limit context size and include only the most relevant memory entries",
+        "To overwrite older memories with new ones",
+        "To increase token usage for thorough reasoning"
+      ],
+      "answer": "To limit context size and include only the most relevant memory entries"
+    },
+    {
+      "question": "What advantage does continual memory updating at test time provide?",
+      "options": [
+        "It reduces compute requirements",
+        "It enables self-improvement and solving more problems over time",
+        "It eliminates the need for memory selection",
+        "It leads to lower Oracle@k scores"
+      ],
+      "answer": "It enables self-improvement and solving more problems over time"
+    }
+  ]
+}
