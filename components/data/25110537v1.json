@@ -1,0 +1,75 @@
+{
+  "questions": [
+    {
+      "question": "What is the main focus of the paper 'Reasoning Is All You Need for Urban Planning AI'?",
+      "options": [
+        "A. Using statistical learning for land-use prediction",
+        "B. Introducing a reasoning-capable AI framework for urban planning",
+        "C. Creating a new dataset of global cities for deep learning",
+        "D. Automating construction scheduling"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which three cognitive layers make up the Agentic Urban Planning AI Framework?",
+      "options": [
+        "A. Input, Processing, Output",
+        "B. Data, Learning, Decision",
+        "C. Perception, Foundation, Reasoning",
+        "D. Vision, Language, Planning"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "How many logic components are integrated in the proposed framework?",
+      "options": [
+        "A. Four",
+        "B. Six",
+        "C. Eight",
+        "D. Ten"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which of the following is NOT one of the six logic components mentioned in the framework?",
+      "options": [
+        "A. Analysis",
+        "B. Verification",
+        "C. Simulation",
+        "D. Collaboration"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "What type of reasoning do the authors emphasize for planning agents?",
+      "options": [
+        "A. Purely statistical inference",
+        "B. Value-based, rule-grounded, and explainable reasoning",
+        "C. Randomized exploration",
+        "D. Black-box optimization"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "What is one key advantage of reasoning-capable agents over purely statistical models in planning?",
+      "options": [
+        "A. They require less computational power",
+        "B. They guarantee constraint satisfaction and provide transparent justifications",
+        "C. They perform faster spatial queries",
+        "D. They eliminate the need for human planners"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "To which event was this paper submitted?",
+      "options": [
+        "A. NeurIPS 2025 Workshop on AI for Cities",
+        "B. AAAI 2026 Workshop on AI4UP",
+        "C. IJCAI 2026 Conference",
+        "D. CVPR 2025 Urban Scene Understanding Track"
+      ],
+      "answer": "B"
+    }
+  ],
+  "url": "[https://arxiv.org/html/2511.05375v1](https://arxiv.org/html/2511.05375v1)"
+}

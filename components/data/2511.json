@@ -1,0 +1,55 @@
+{
+  "questions": [
+    {
+      "question": "What is the main physical system studied in the paper?",
+      "options": [
+        "A. Two-dimensional random-bond Ising model (±J) under bit-flip noise",
+        "B. Three-dimensional Heisenberg spin glass",
+        "C. One-dimensional quantum XY chain with disorder",
+        "D. Four-dimensional lattice gauge theory"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Which information-theoretic measure did the authors identify as having the smallest finite-size effects when locating the multicritical point?",
+      "options": [
+        "A. Shannon entropy",
+        "B. Mutual information",
+        "C. Coherent information",
+        "D. Von Neumann entropy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "What critical probability \\(p_c\\) did the authors obtain for the multicritical point of the model studied?",
+      "options": [
+        "A. \\(p_c = 0.1092212(4)\\)",
+        "B. \\(p_c = 0.150 ± 0.005\\)",
+        "C. \\(p_c = 0.089 ± 0.003\\)",
+        "D. \\(p_c = 0.1234(8)\\)"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Why are the authors interested in the so-called “Nishimori line” phenomenon?",
+      "options": [
+        "A. Because it describes a paramagnetic to ferromagnetic transition in clean systems",
+        "B. Because quantum error-correction thresholds map to random-bond Ising models on that line",
+        "C. Because it is a line of first-order transitions only",
+        "D. Because it is only relevant for high-temperature expansions"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which technique did the authors use numerically to compute the information measures and domain-wall free energy distribution?",
+      "options": [
+        "A. Monte Carlo sampling with Metropolis updates",
+        "B. Tensor-network renormalization",
+        "C. Fermionic transfer matrix method",
+        "D. Exact diagonalization of large spin clusters"
+      ],
+      "answer": "C"
+    }
+  ],
+  "url": "https://arxiv.org/html/2511.02907v1"
+}

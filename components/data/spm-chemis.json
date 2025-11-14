@@ -1,0 +1,154 @@
+{
+  "url": "https://google.com",
+  "questions": [
+    {
+      "question": "Which statement defines oxidation?",
+      "options": [
+        "Gain of electron",
+        "Gain of hydrogen",
+        "Loss of oxygen",
+        "Increase in oxidation number"
+      ],
+      "answer": "Increase in oxidation number"
+    },
+    {
+      "question": "Which of the following is an electrolyte?",
+      "options": [
+        "Glucose",
+        "Naphthalene",
+        "Sodium chloride solution",
+        "Glacial ethanoic acid"
+      ],
+      "answer": "Sodium chloride solution"
+    },
+    {
+      "question": "Which of the following reactants is most suitable for the preparation of silver chloride?",
+      "options": [
+        "Silver and hydrochloric acid",
+        "Aqueous silver nitrate and aqueous sodium chloride",
+        "Aqueous silver nitrate and sodium hydroxide",
+        "Solid silver carbonate and hydrochloric acid"
+      ],
+      "answer": "Aqueous silver nitrate and aqueous sodium chloride"
+    },
+    {
+      "question": "Which of the following is correct in the electrolysis of molten lead (II) bromide?",
+      "options": [
+        "ANODE: Pb2+ + 2e → Pb ; CATHODE: 2Br− → Br2 + 2e",
+        "ANODE: 2Br− → Br2 + 2e ; CATHODE: Pb2+ + 2e → Pb",
+        "ANODE: Pb2+ → Pb + 2e ; CATHODE: 2Br− + 2e → Br2",
+        "ANODE: 2Br− + 2e → Br2 ; CATHODE: Pb2+ → Pb + 2e"
+      ],
+      "answer": "ANODE: 2Br− → Br2 + 2e ; CATHODE: Pb2+ + 2e → Pb"
+    },
+    {
+      "question": "A thermochemical equation is given as below: Zn + CuSO4 → ZnSO4 + Cu; ΔH = -210 kJ mol−1. What is the temperature increase if 50 cm³ of 0.2 mol dm−3 copper (II) sulphate solution is added with excess zinc? [c = 4.2 J g−1 °C−1 ; Density of solution = 1 g cm−3]",
+      "options": [
+        "0.01 °C",
+        "10.5 °C",
+        "10 °C",
+        "200 °C"
+      ],
+      "answer": "10 °C"
+    },
+    {
+      "question": "Which factor does not affect the discharge of ions at electrodes during electrolysis of an aqueous solution?",
+      "options": [
+        "Position of ions in the electrochemical series",
+        "Concentration of ions in the electrolyte",
+        "Volume of electrolyte",
+        "Types of electrodes"
+      ],
+      "answer": "Volume of electrolyte"
+    },
+    {
+      "question": "In the electrolysis of magnesium sulphate solution (MgSO4) using carbon electrodes, what is formed at the anode?",
+      "options": [
+        "Hydrogen gas",
+        "Oxygen gas",
+        "Sulphur dioxide",
+        "Magnesium"
+      ],
+      "answer": "Oxygen gas"
+    },
+    {
+      "question": "Which substance forms yellow precipitate when added to lead(II) nitrate solution?",
+      "options": [
+        "Sodium chloride",
+        "Sodium carbonate",
+        "Potassium iodide",
+        "Potassium sulphate"
+      ],
+      "answer": "Potassium iodide"
+    },
+    {
+      "question": "The following equation represents the neutralization reaction: HCl + NaOH → NaCl + H2O; ∆H = -57.3 kJ mol−1. Which statement is correct about the reaction?",
+      "options": [
+        "No heat is absorbed or released during bond breaking and bond formation",
+        "The heat absorbed during bond breaking is equal to the heat released during bond formation",
+        "The heat absorbed during bond breaking is more than the heat released during bond formation",
+        "The heat absorbed during bond breaking is less than the heat released during bond formation"
+      ],
+      "answer": "The heat absorbed during bond breaking is less than the heat released during bond formation"
+    },
+    {
+      "question": "Which of the following reagents can change iodide ion to iodine? (More than one answer)",
+      "options": [
+        "Bromine water",
+        "Iron(II) sulphate solution",
+        "Lead(II) nitrate solution",
+        "Acidified potassium dichromate(VI) solution"
+      ],
+      "answer": [
+        "Bromine water",
+        "Acidified potassium dichromate(VI) solution"
+      ]
+    },
+    {
+      "question": "The following equation represents a reaction between zinc metal and sulphuric acid: Zn + H2SO4 → Salt + hydrogen. What is the name of the salt and its solubility in water?",
+      "options": [
+        "Zinc sulphate, Soluble",
+        "Zinc oxide, Insoluble",
+        "Zinc oxide, Soluble",
+        "Zinc sulphate, Insoluble"
+      ],
+      "answer": "Zinc sulphate, Soluble"
+    },
+    {
+      "question": "Which processes involve the release of heat energy? (More than one answer)",
+      "options": [
+        "Condensation",
+        "Melting",
+        "Freezing",
+        "Boiling"
+      ],
+      "answer": [
+        "Condensation",
+        "Freezing"
+      ]
+    },
+    {
+      "question": "A group of students is required to confirm the presence of chloride ion in solution P. What is the suitable reagent and expected observation in the test?",
+      "options": [
+        "Reagent: Dilute hydrochloric acid ; Observation: Gas released turns lime water chalky",
+        "Reagent: Dilute nitric acid and silver nitrate solution ; Observation: White precipitate is formed",
+        "Reagent: Dilute hydrochloric acid and barium chloride solution ; Observation: White precipitate is formed",
+        "Reagent: Dilute sulphuric acid, iron(II) sulphate solution and concentrated sulphuric acid ; Observation: A brown ring is formed"
+      ],
+      "answer": "Reagent: Dilute nitric acid and silver nitrate solution ; Observation: White precipitate is formed"
+    },
+    {
+      "question": "Which salts are insoluble in water? (More than one answer)",
+      "options": [
+        "Silver nitrate",
+        "Calcium sulphate",
+        "Sodium carbonate",
+        "Lead(II) chloride"
+      ],
+      "answer": [
+        "Calcium sulphate",
+        "Lead(II) chloride"
+      ]
+    }
+  ]
+}

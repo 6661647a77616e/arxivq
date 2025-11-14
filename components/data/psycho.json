@@ -1,0 +1,105 @@
+{
+  "url": "https://google.com",
+  "questions": [
+    {
+      "question": "What framework does the paper introduce to enhance LLM agent behavior?",
+      "options": [
+        "Emotion-Driven Agents",
+        "MBTI-in-Thoughts",
+        "Reinforcement-Conditioned Agents",
+        "Cognitive-Affect Model"
+      ],
+      "answer": "MBTI-in-Thoughts"
+    },
+    {
+      "question": "Which psychological model is used in the framework to define personality archetypes?",
+      "options": [
+        "Big Five",
+        "Enneagram",
+        "MBTI",
+        "HEXACO"
+      ],
+      "answer": "MBTI"
+    },
+    {
+      "question": "How does the framework control agent behavior?",
+      "options": [
+        "By fine-tuning model weights",
+        "Through prompt engineering",
+        "By modifying architecture",
+        "Using reinforcement learning"
+      ],
+      "answer": "Through prompt engineering"
+    },
+    {
+      "question": "What are the two foundational psychological axes addressed by the framework?",
+      "options": [
+        "Thinking and Feeling",
+        "Judging and Perceiving",
+        "Cognition and Affect",
+        "Sensing and Intuition"
+      ],
+      "answer": "Cognition and Affect"
+    },
+    {
+      "question": "In which type of tasks do emotionally expressive agents particularly excel according to the paper?",
+      "options": [
+        "Mathematical problem solving",
+        "Narrative generation",
+        "Strategic gameplay",
+        "Data classification"
+      ],
+      "answer": "Narrative generation"
+    },
+    {
+      "question": "Which agent type demonstrated more stable strategy in game-theoretic environments?",
+      "options": [
+        "Emotionally expressive agents",
+        "Cognitively analytic agents",
+        "Random agents",
+        "Reactive agents"
+      ],
+      "answer": "Cognitively analytic agents"
+    },
+    {
+      "question": "What capability does including pre-interaction self-reflection improve?",
+      "options": [
+        "Response speed",
+        "Cooperation and reasoning quality",
+        "Computation cost",
+        "Memory usage"
+      ],
+      "answer": "Cooperation and reasoning quality"
+    },
+    {
+      "question": "Which automated test is used to ensure personality trait persistence?",
+      "options": [
+        "Turing Test",
+        "16 Personalities test",
+        "Big Five Inventory",
+        "Stanford Personality Scale"
+      ],
+      "answer": "16 Personalities test"
+    },
+    {
+      "question": "Is the framework limited only to MBTI, or can it be extended to other personality models?",
+      "options": [
+        "Limited to MBTI",
+        "Extendable to Big Five, HEXACO, Enneagram",
+        "Only useful for MBTI & Big Five",
+        "Not mentioned"
+      ],
+      "answer": "Extendable to Big Five, HEXACO, Enneagram"
+    },
+    {
+      "question": "Does the framework require model fine-tuning to implement personality conditioning?",
+      "options": [
+        "Yes, requires extensive fine-tuning",
+        "Yes, minimal fine-tuning",
+        "No, uses prompt engineering only",
+        "No, uses architecture changes"
+      ],
+      "answer": "No, uses prompt engineering only"
+    }
+  ]
+}

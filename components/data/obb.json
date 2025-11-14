@@ -1,0 +1,4565 @@
+{
+  "url": "https://google.com",
+  "questions": [
+    {
+      "question": "What main theoretical frameworks are explored in this paper?",
+      "options": [
+        "Loop Quantum Gravity and String Theory",
+        "f(ℛ)-gravity and Ricci-Inverse (RI)-gravity",
+        "Newtonian Gravity and Special Relativity",
+        "Kaluza-Klein Theory and Einstein–Cartan Theory"
+      ],
+      "answer": "f(ℛ)-gravity and Ricci-Inverse (RI)-gravity"
+    },
+    {
+      "question": "Which type of perturbations does the paper analyze to assess black hole stability?",
+      "options": [
+        "Gravitational and spinor perturbations",
+        "Scalar and vector perturbations",
+        "Tensor and electromagnetic perturbations",
+        "Spin-2 and tensor perturbations"
+      ],
+      "answer": "Scalar and vector perturbations"
+    },
+    {
+      "question": "What principle is used to modify the Hawking radiation in this study?",
+      "options": [
+        "Holographic Uncertainty Principle",
+        "Heisenberg Uncertainty Principle",
+        "Generalized Uncertainty Principle (GUP)",
+        "Equivalence Principle"
+      ],
+      "answer": "Generalized Uncertainty Principle (GUP)"
+    },
+    {
+      "question": "What significant thermodynamic implication is discussed regarding black holes in these modified gravity theories?",
+      "options": [
+        "Black holes evaporate instantly",
+        "Formation of black hole remnants due to GUP corrections",
+        "Black hole entropy becomes negative",
+        "Hawking temperature matches classical predictions exactly"
+      ],
+      "answer": "Formation of black hole remnants due to GUP corrections"
+    },
+    {
+      "question": "What types of physical quantities do the authors derive to characterize these modified black holes?",
+      "options": [
+        "Only gravitational wave spectra",
+        "Effective potential, modified Hawking temperature, and entropy",
+        "Photon sphere radius and critical escape velocity",
+        "Only mass and spin parameters"
+      ],
+      "answer": "Effective potential, modified Hawking temperature, and entropy"
+    },
+    {
+      "question": "What is the primary purpose of this study conducted for the Department for Education (DfE)?",
+      "options": [
+        "To determine tuition fee rates for universities",
+        "To understand the full economic cost of undergraduate and foundation degree provision by subject group",
+        "To evaluate teaching quality across universities",
+        "To recommend funding allocations to specific institutions"
+      ],
+      "answer": "To understand the full economic cost of undergraduate and foundation degree provision by subject group"
+    },
+    {
+      "question": "Which costing methodology was used as the starting point for determining costs in this study?",
+      "options": [
+        "Activity-Based Costing (ABC)",
+        "Full Cost Recovery (FCR)",
+        "Transparent Approach to Costing (TRAC)",
+        "Incremental Budgeting"
+      ],
+      "answer": "Transparent Approach to Costing (TRAC)"
+    },
+    {
+      "question": "Which of the following was NOT within the scope of this study?",
+      "options": [
+        "Full-time undergraduate provision",
+        "Postgraduate teaching provision",
+        "Foundation degree provision",
+        "Overseas students enrolled in undergraduate courses"
+      ],
+      "answer": "Postgraduate teaching provision"
+    },
+    {
+      "question": "How many higher education institutions were included in the final analysis?",
+      "options": [
+        "41",
+        "38",
+        "40",
+        "52"
+      ],
+      "answer": "40"
+    },
+    {
+      "question": "What was the approximate overall coverage of student full-time equivalents (FTEs) in this study?",
+      "options": [
+        "23%",
+        "38%",
+        "52%",
+        "54%"
+      ],
+      "answer": "38%"
+    },
+    {
+      "question": "Which of the following cost categories is part of the indirect costs considered in this study?",
+      "options": [
+        "Direct teaching staff salaries",
+        "Laboratory consumables",
+        "Administrative expenses",
+        "Student accommodation costs"
+      ],
+      "answer": "Administrative expenses"
+    },
+    {
+      "question": "How should the reported one-year unit costs be interpreted for multi-year degree programmes?",
+      "options": [
+        "Divide by the number of years",
+        "Multiply by the number of years",
+        "Use them without adjustment",
+        "Adjust only for part-time students"
+      ],
+      "answer": "Multiply by the number of years"
+    },
+    {
+      "question": "Which subject group has the highest weighted average unit cost, and what is its value?",
+      "options": [
+        "Engineering, £14,500",
+        "Medical, dental and veterinary science, £17,991",
+        "Biological sciences, £12,200",
+        "Art and design, £15,000"
+      ],
+      "answer": "Medical, dental and veterinary science, £17,991"
+    },
+    {
+      "question": "How much higher is the weighted average unit cost for Medical, dental and veterinary science compared to the next highest group?",
+      "options": [
+        "Over £4,000",
+        "Over £5,000",
+        "Over £6,400",
+        "Over £7,500"
+      ],
+      "answer": "Over £6,400"
+    },
+    {
+      "question": "What is the weighted average unit cost for Social sciences, history and economics?",
+      "options": [
+        "£8,801",
+        "£8,855",
+        "£10,372",
+        "£11,500"
+      ],
+      "answer": "£8,855"
+    },
+    {
+      "question": "What was the coverage achieved for Medical, dental and veterinary science by student FTEs?",
+      "options": [
+        "36%",
+        "42%",
+        "48%",
+        "52%"
+      ],
+      "answer": "52%"
+    },
+    {
+      "question": "Which cost category had consistently higher values for Medical, dental and veterinary science compared to all other subject groups?",
+      "options": [
+        "Course delivery staff, non-pay, and departmental running costs",
+        "Student related central services and estates costs",
+        "Corporate services and sustainability adjustment",
+        "IT infrastructure and support costs"
+      ],
+      "answer": "Course delivery staff, non-pay, and departmental running costs"
+    },
+    {
+      "question": "What is the overall weighted average unit cost for all full-time provision?",
+      "options": [
+        "£8,855",
+        "£10,000",
+        "£10,372",
+        "£11,500"
+      ],
+      "answer": "£10,372"
+    },
+    {
+      "question": "Which subject groups had the lowest weighted average unit costs?",
+      "options": [
+        "English, law and modern languages; Social sciences, history and economics",
+        "Engineering; Biological sciences",
+        "Art and design; Maths, physics, chemistry",
+        "Geology, environmental sciences; Architecture"
+      ],
+      "answer": "English, law and modern languages; Social sciences, history and economics"
+    },
+    {
+      "question": "What is the typical proportion range for departmental running costs across subject groups?",
+      "options": [
+        "5% to 8%",
+        "9% to 16%",
+        "17% to 22%",
+        "24% to 28%"
+      ],
+      "answer": "9% to 16%"
+    },
+    {
+      "question": "What is the range for sustainability adjustment costs across subject groups?",
+      "options": [
+        "5% to 7%",
+        "8% to 9%",
+        "10% to 11%",
+        "12% to 14%"
+      ],
+      "answer": "10% to 11%"
+    },
+    {
+      "question": "What was the median total expenditure for institutions delivering in-scope provision in 2016-17?",
+      "options": [
+        "£70m",
+        "£152m",
+        "£225m",
+        "£1.2bn"
+      ],
+      "answer": "£152m"
+    },
+    {
+      "question": "Why were results not published for Geology, environmental sciences, archaeology and ancient history, and Medical, dental and veterinary science in London institutions?",
+      "options": [
+        "The data was too expensive to process",
+        "Fewer than five London institutions submitted data",
+        "The data was classified for security reasons",
+        "These subjects are not taught in London"
+      ],
+      "answer": "Fewer than five London institutions submitted data"
+    },
+    {
+      "question": "What was the coverage achieved for Medical, dental and veterinary science data returns from institutions?",
+      "options": [
+        "29%",
+        "36%",
+        "39%",
+        "52%"
+      ],
+      "answer": "39%"
+    },
+    {
+      "question": "Which subject group had the second highest standard deviation range for unit costs?",
+      "options": [
+        "Engineering",
+        "Biological sciences",
+        "Arts and design and architecture",
+        "Social sciences, history and economics"
+      ],
+      "answer": "Arts and design and architecture"
+    },
+    {
+      "question": "What is one reason Arts and design and architecture has a high standard deviation in unit costs?",
+      "options": [
+        "High turnover of teaching staff",
+        "Variation in teaching intensity and overhead costs",
+        "Low number of enrolled students",
+        "High international student intake"
+      ],
+      "answer": "Variation in teaching intensity and overhead costs"
+    },
+    {
+      "question": "What was the average difference in unit cost for London institutions compared to non-London institutions?",
+      "options": [
+        "8.5% higher",
+        "10% higher",
+        "14.1% higher",
+        "20% higher"
+      ],
+      "answer": "14.1% higher"
+    },
+    {
+      "question": "Where were most of the institutions with the lowest unit cost located?",
+      "options": [
+        "London",
+        "Midlands",
+        "North of the country",
+        "South West"
+      ],
+      "answer": "North of the country"
+    },
+    {
+      "question": "Which factor was NOT found to influence unit costs significantly?",
+      "options": [
+        "Region",
+        "Financial scale",
+        "Non-continuation rates",
+        "Staff to student ratio"
+      ],
+      "answer": "Non-continuation rates"
+    },
+    {
+      "question": "What is the relationship between the number of HESA cost centres and unit costs?",
+      "options": [
+        "Fewer HESA cost centres are linked to higher unit costs",
+        "More HESA cost centres are linked to higher unit costs",
+        "Number of HESA cost centres has no link to unit costs",
+        "Unit costs increase proportionally with more HESA cost centres"
+      ],
+      "answer": "Fewer HESA cost centres are linked to higher unit costs"
+    },
+    {
+      "question": "Which of the following future factors is expected to increase teaching costs?",
+      "options": [
+        "Lower pension contributions",
+        "Falling inflation rates",
+        "BREXIT impact on recruitment",
+        "Reduced regulatory requirements"
+      ],
+      "answer": "BREXIT impact on recruitment"
+    },
+    {
+      "question": "What inflation rate was indicated by the retail price index from August 2017 to December 2018?",
+      "options": [
+        "2.3%",
+        "3.8%",
+        "4.7%",
+        "5.1%"
+      ],
+      "answer": "4.7%"
+    },
+    {
+      "question": "What change in 2016-17 created uncertainty in the future cost of Nursing, Midwifery, and Allied Healthcare provision?",
+      "options": [
+        "Introduction of new accreditation requirements",
+        "Changes in funding arrangements",
+        "Closure of several teaching hospitals",
+        "Reduction in student intake quotas"
+      ],
+      "answer": "Changes in funding arrangements"
+    },
+    {
+      "question": "Why are research-related benefits to teaching not reflected in the reported teaching costs?",
+      "options": [
+        "Research is not considered part of teaching activities",
+        "The costs of acquiring these advantages are excluded from teaching costs",
+        "The study did not receive research data from institutions",
+        "Research costs are covered by student tuition fees instead"
+      ],
+      "answer": "The costs of acquiring these advantages are excluded from teaching costs"
+    },
+    {
+      "question": "How did course delivery staff vacancies in 2016-17 affect teaching costs?",
+      "options": [
+        "They always decreased costs due to fewer staff salaries",
+        "They increased costs when covered by temporary staff, but decreased costs when covered by existing staff",
+        "They had no measurable impact on teaching costs",
+        "They only increased costs in London institutions"
+      ],
+      "answer": "They increased costs when covered by temporary staff, but decreased costs when covered by existing staff"
+    },
+    {
+      "question": "What long-term financial obligations did institutions highlight as increasing due to capital expenditure?",
+      "options": [
+        "Increased pension contributions",
+        "Higher borrowing and repayment commitments",
+        "New estate maintenance costs",
+        "Higher staff recruitment costs"
+      ],
+      "answer": "Higher borrowing and repayment commitments"
+    },
+    {
+      "question": "What was one reported benefit for institutions participating in this cost study?",
+      "options": [
+        "Receiving additional government funding",
+        "Improving their ranking in TRAC reports",
+        "Conducting more detailed internal financial reviews",
+        "Reducing course delivery costs immediately"
+      ],
+      "answer": "Conducting more detailed internal financial reviews"
+    },
+    {
+      "question": "What was the coverage of all possible student FTEs achieved in this study?",
+      "options": [
+        "28%",
+        "36%",
+        "38%",
+        "52%"
+      ],
+      "answer": "38%"
+    },
+    {
+      "question": "Which factor led to higher unit costs by an average of 14.1%?",
+      "options": [
+        "Being a specialist institution",
+        "Being located in London",
+        "Having more HESA cost centres",
+        "Offering more part-time courses"
+      ],
+      "answer": "Being located in London"
+    },
+    {
+      "question": "What percentage range did direct teaching costs represent by subject group?",
+      "options": [
+        "10% to 18%",
+        "24% to 28%",
+        "30% to 35%",
+        "40% to 45%"
+      ],
+      "answer": "24% to 28%"
+    },
+    {
+      "question": "What activities are included in Student related central services costs?",
+      "options": [
+        "Only IT support",
+        "Student financial support, library services, marketing, outreach, and IT services",
+        "Only admissions and marketing services",
+        "Course development and staff salaries"
+      ],
+      "answer": "Student financial support, library services, marketing, outreach, and IT services"
+    },
+    {
+      "question": "What is the largest combined share of unit costs across subject groups?",
+      "options": [
+        "Direct teaching costs",
+        "Staff and Student related central services costs",
+        "Estates and sustainability costs",
+        "Corporate services and non-pay costs"
+      ],
+      "answer": "Staff and Student related central services costs"
+    },
+    {
+      "question": "How many institutions were included in the study, and what percentage of the student population did this represent?",
+      "options": [
+        "20 institutions, 25% of the student population",
+        "40 institutions, 38% of the student population",
+        "50 institutions, 50% of the student population",
+        "60 institutions, 45% of the student population"
+      ],
+      "answer": "40 institutions, 38% of the student population"
+    },
+    {
+      "question": "What was NOT verified, substantiated, or audited in the study?",
+      "options": [
+        "The statistical models used",
+        "The data provided by institutions",
+        "The TRAC guidance",
+        "The external economic benchmarks"
+      ],
+      "answer": "The data provided by institutions"
+    },
+    {
+      "question": "What type of analyses were used to assess whether institutions reasonably allocated costs?",
+      "options": [
+        "Absolute value analysis",
+        "Trend analyses and relative comparisons",
+        "Regression modelling",
+        "Random sampling"
+      ],
+      "answer": "Trend analyses and relative comparisons"
+    },
+    {
+      "question": "Who was relied upon to sign off the management judgements used in cost allocations?",
+      "options": [
+        "Vice Chancellor",
+        "Director of Finance or equivalent",
+        "Head of Department",
+        "External Auditor"
+      ],
+      "answer": "Director of Finance or equivalent"
+    },
+    {
+      "question": "What materiality threshold was permitted in the study’s guidance?",
+      "options": [
+        "5%",
+        "7.5%",
+        "10%",
+        "15%"
+      ],
+      "answer": "10%"
+    },
+    {
+      "question": "How were responses to institutional queries treated in this study?",
+      "options": [
+        "They were audited independently",
+        "They were accepted at face value with validation checks",
+        "They were ignored due to lack of reliability",
+        "They were compared against government records"
+      ],
+      "answer": "They were accepted at face value with validation checks"
+    },
+    {
+      "question": "What limited the ability to fully explain the allocation of teaching costs across courses and institutions?",
+      "options": [
+        "Lack of trained analysts",
+        "Pace at which the work was completed",
+        "Insufficient TRAC guidance",
+        "Errors in student enrolment data"
+      ],
+      "answer": "Pace at which the work was completed"
+    },
+    {
+      "question": "What does costing inevitably require according to the study?",
+      "options": [
+        "Absolute precision and verification",
+        "A number of judgements and assumptions",
+        "External auditing of all institutions",
+        "Mathematical modelling only"
+      ],
+      "answer": "A number of judgements and assumptions"
+    },
+    {
+      "question": "When did the Government announce its Review of Post-18 Education and Funding?",
+      "options": [
+        "January 2017",
+        "February 2018",
+        "September 2016",
+        "March 2019"
+      ],
+      "answer": "February 2018"
+    },
+    {
+      "question": "Which government department commissioned this study?",
+      "options": [
+        "Department for Business and Trade",
+        "Department for Education (DfE)",
+        "Department for Work and Pensions",
+        "Department for Communities and Local Government"
+      ],
+      "answer": "Department for Education (DfE)"
+    },
+    {
+      "question": "What data formed the starting point for the unit cost calculations?",
+      "options": [
+        "HESA student returns",
+        "Annual TRAC Teaching Costs",
+        "Institutional prospectuses",
+        "Course fee structures"
+      ],
+      "answer": "Annual TRAC Teaching Costs"
+    },
+    {
+      "question": "Who were appointed as independent consultants to undertake the study?",
+      "options": [
+        "PwC",
+        "EY",
+        "KPMG",
+        "Deloitte"
+      ],
+      "answer": "KPMG"
+    },
+    {
+      "question": "What was one of the main aims of the study?",
+      "options": [
+        "To determine the average annual full economic cost per full-time equivalent student",
+        "To compare UK costs with international benchmarks",
+        "To establish minimum course fees across institutions",
+        "To design a new funding model immediately"
+      ],
+      "answer": "To determine the average annual full economic cost per full-time equivalent student"
+    },
+    {
+      "question": "Which types of provision were excluded from the study?",
+      "options": [
+        "Undergraduate and foundation provision",
+        "Postgraduate teaching, distance learners, franchised provision, short courses and apprenticeships",
+        "Sandwich courses and foundation degrees",
+        "Full-time undergraduate provision only"
+      ],
+      "answer": "Postgraduate teaching, distance learners, franchised provision, short courses and apprenticeships"
+    },
+    {
+      "question": "How did the study treat courses introduced or closed in 2016-17?",
+      "options": [
+        "They were excluded from the dataset",
+        "They were adjusted to remove unusual costs",
+        "They were included as part of normal portfolio changes",
+        "They were weighted less in the analysis"
+      ],
+      "answer": "They were included as part of normal portfolio changes"
+    },
+    {
+      "question": "What minimum threshold was used for reporting aggregated data to avoid identifying individual institutions?",
+      "options": [
+        "Three institutions",
+        "Five institutions",
+        "Ten institutions",
+        "Fifteen institutions"
+      ],
+      "answer": "Five institutions"
+    },
+    {
+      "question": "Which stakeholder groups were engaged to encourage institutional participation?",
+      "options": [
+        "BUFDG, UUK, Russell Group Finance Director Group, and HESPA",
+        "NUS, HEPI, Research England, and Ofsted",
+        "HEFCE, QAA, UCAS, and ONS",
+        "HESA, JISC, Advance HE, and OfS"
+      ],
+      "answer": "BUFDG, UUK, Russell Group Finance Director Group, and HESPA"
+    },
+    {
+      "question": "What costing approach was adopted for the study?",
+      "options": [
+        "Bottom-up activity-based costing",
+        "Top-down costing based on TRAC data",
+        "Case study comparative analysis",
+        "Regression-based modelling"
+      ],
+      "answer": "Top-down costing based on TRAC data"
+    },
+    {
+      "question": "How many pilot institutions were involved in Stage 1 of developing the approach?",
+      "options": [
+        "5 institutions",
+        "8 institutions",
+        "12 institutions",
+        "20 institutions"
+      ],
+      "answer": "8 institutions"
+    },
+    {
+      "question": "How many institutions were invited to take part in the Stage 2 pilot?",
+      "options": [
+        "24 institutions",
+        "36 institutions",
+        "48 institutions",
+        "60 institutions"
+      ],
+      "answer": "48 institutions"
+    },
+    {
+      "question": "How many institutions participated in face-to-face meetings to explore contextual questions and cost issues?",
+      "options": [
+        "10 institutions",
+        "12 institutions",
+        "17 institutions",
+        "20 institutions"
+      ],
+      "answer": "17 institutions"
+    },
+    {
+      "question": "What was the main role of the Steering Group in the study?",
+      "options": [
+        "Collecting and auditing data",
+        "Overseeing the delivery of the study",
+        "Providing IT support for institutions",
+        "Designing institutional funding policies"
+      ],
+      "answer": "Overseeing the delivery of the study"
+    },
+    {
+      "question": "Which of the following was NOT a role of the Technical Group?",
+      "options": [
+        "Advising on methodology and contextual questions",
+        "Providing insight into cost drivers and data sources",
+        "Agreeing cost collection templates",
+        "Setting tuition fee levels for institutions"
+      ],
+      "answer": "Setting tuition fee levels for institutions"
+    },
+    {
+      "question": "Which consultancy team did the Technical Group act as a sounding board for?",
+      "options": [
+        "PwC",
+        "KPMG",
+        "Deloitte",
+        "EY"
+      ],
+      "answer": "KPMG"
+    },
+    {
+      "question": "What was one purpose of engaging with pilot participants?",
+      "options": [
+        "To test tuition fee policies",
+        "To develop and agree a consistent costing methodology",
+        "To recruit new institutions to the study",
+        "To benchmark international data"
+      ],
+      "answer": "To develop and agree a consistent costing methodology"
+    },
+    {
+      "question": "What tool was provided to institutions for capturing costs and contextual factors?",
+      "options": [
+        "A data collection template",
+        "A government survey",
+        "A financial audit spreadsheet",
+        "A public dashboard"
+      ],
+      "answer": "A data collection template"
+    },
+    {
+      "question": "What resource was created to securely exchange study materials with institutions?",
+      "options": [
+        "Encrypted email chains",
+        "A secure data transfer site",
+        "A public cloud folder",
+        "An institutional intranet"
+      ],
+      "answer": "A secure data transfer site"
+    },
+    {
+      "question": "How did the study team provide guidance and respond to institution queries?",
+      "options": [
+        "Through in-person inspections",
+        "By issuing FAQ documents only",
+        "By webinars and a helpdesk",
+        "By automated email bots"
+      ],
+      "answer": "By webinars and a helpdesk"
+    },
+    {
+      "question": "What type of average unit costs were calculated from the data?",
+      "options": [
+        "Unweighted mean costs",
+        "Weighted average unit costs",
+        "Median unit costs",
+        "Maximum and minimum unit costs"
+      ],
+      "answer": "Weighted average unit costs"
+    },
+    {
+      "question": "Which stakeholder groups were specifically acknowledged for their contributions?",
+      "options": [
+        "NUS, HEPI, and Ofsted",
+        "BUFDG, HESPA, Russell Group Finance Directors, and UUK",
+        "HESA, UCAS, Advance HE, and Research England",
+        "DfE, HEFCE, OfS, and QAA"
+      ],
+      "answer": "BUFDG, HESPA, Russell Group Finance Directors, and UUK"
+    },
+    {
+      "question": "Which of the following was NOT listed as a key section in the report structure?",
+      "options": [
+        "Scope and methodology",
+        "Coverage",
+        "Findings and analysis",
+        "International benchmarking"
+      ],
+      "answer": "International benchmarking"
+    },
+    {
+      "question": "Which academic year did the study focus on?",
+      "options": [
+        "2015-16",
+        "2016-17",
+        "2017-18",
+        "2018-19"
+      ],
+      "answer": "2016-17"
+    },
+    {
+      "question": "Which types of provision were included in the study?",
+      "options": [
+        "Only postgraduate provision",
+        "Undergraduate and foundation, both full-time and part-time",
+        "Distance learning and apprenticeships",
+        "Short courses and franchised provision"
+      ],
+      "answer": "Undergraduate and foundation, both full-time and part-time"
+    },
+    {
+      "question": "What was excluded from the study’s scope?",
+      "options": [
+        "Postgraduate teaching, distance learners, franchised out provision, short courses, and apprenticeships",
+        "All undergraduate teaching",
+        "Foundation degrees only",
+        "Only London-based universities"
+      ],
+      "answer": "Postgraduate teaching, distance learners, franchised out provision, short courses, and apprenticeships"
+    },
+    {
+      "question": "What threshold was applied to ensure results did not identify individual institutions?",
+      "options": [
+        "At least 2 institutions must provide data",
+        "At least 3 institutions must provide data",
+        "At least 5 institutions must provide course costs",
+        "At least 10 institutions must provide course costs"
+      ],
+      "answer": "At least 5 institutions must provide course costs"
+    },
+    {
+      "question": "What additional safeguard was applied to aggregated results for part-time and foundation provision?",
+      "options": [
+        "Threshold of 50 student FTEs",
+        "Threshold of 100 student FTEs",
+        "Threshold of 150 student FTEs",
+        "Threshold of 200 student FTEs"
+      ],
+      "answer": "Threshold of 100 student FTEs"
+    },
+    {
+      "question": "How many institutions expressed interest in the pilot stage after the DfE’s June 2018 letter?",
+      "options": [
+        "30 institutions",
+        "46 institutions",
+        "70+ institutions",
+        "100 institutions"
+      ],
+      "answer": "70+ institutions"
+    },
+    {
+      "question": "How many institutions were selected for the wave one pilot?",
+      "options": [
+        "6 institutions",
+        "8 institutions",
+        "12 institutions",
+        "20 institutions"
+      ],
+      "answer": "8 institutions"
+    },
+    {
+      "question": "How many institutions were invited to participate in the second pilot wave?",
+      "options": [
+        "20 institutions",
+        "30 institutions",
+        "40 institutions",
+        "50 institutions"
+      ],
+      "answer": "40 institutions"
+    },
+    {
+      "question": "What were some key factors considered when selecting the first wave pilot institutions?",
+      "options": [
+        "Course/subject coverage, scale of institution, location, and type of institution",
+        "Availability of international partnerships",
+        "Tuition fee levels",
+        "Research funding amounts"
+      ],
+      "answer": "Course/subject coverage, scale of institution, location, and type of institution"
+    },
+    {
+      "question": "What was one major concern raised by pilot institutions?",
+      "options": [
+        "Difficulty accessing academics during summer",
+        "Insufficient financial incentives",
+        "Lack of clarity in government policy",
+        "High cost of software tools"
+      ],
+      "answer": "Difficulty accessing academics during summer"
+    },
+    {
+      "question": "Which group also became members of the Technical Group to support methodology and data interpretation?",
+      "options": [
+        "All institutions in the second wave",
+        "The eight wave one pilot institutions",
+        "The DfE team only",
+        "External consultants only"
+      ],
+      "answer": "The eight wave one pilot institutions"
+    },
+    {
+      "question": "How was the second wave supported in preparing their data returns?",
+      "options": [
+        "They received only final templates after deadlines",
+        "They were excluded from training",
+        "They received draft materials and webinars to introduce the approach",
+        "They were required to attend in-person training only"
+      ],
+      "answer": "They received draft materials and webinars to introduce the approach"
+    },
+    {
+      "question": "When were the provisional pilot results shared with the DfE?",
+      "options": [
+        "June 2018",
+        "July 2018",
+        "September 2018",
+        "December 2018"
+      ],
+      "answer": "September 2018"
+    },
+    {
+      "question": "What caveat was applied to the provisional results shared with the DfE?",
+      "options": [
+        "They were unreliable and not to be used at that stage",
+        "They were already final and ready for publication",
+        "They excluded undergraduate costs",
+        "They included international benchmarking"
+      ],
+      "answer": "They were unreliable and not to be used at that stage"
+    },
+    {
+      "question": "What did the pilot institutions confirm about the format and flow of the returns?",
+      "options": [
+        "It was confusing and required major revisions",
+        "It was reasonably easy to follow, especially for TRAC managers",
+        "It was only suitable for financial auditors",
+        "It was rejected as being too complex"
+      ],
+      "answer": "It was reasonably easy to follow, especially for TRAC managers"
+    },
+    {
+      "question": "What was the main concern raised by pilot institutions?",
+      "options": [
+        "Lack of staff expertise",
+        "Difficulty accessing TRAC data",
+        "The amount of time required to collect the requested detail",
+        "Insufficient guidance from the DfE"
+      ],
+      "answer": "The amount of time required to collect the requested detail"
+    },
+    {
+      "question": "How was the second group of pilot institutions supported?",
+      "options": [
+        "They were given less time than the first group",
+        "They received all draft materials at the same time as the first group",
+        "They were exempted from completing the data return",
+        "They were only asked to attend webinars without any documents"
+      ],
+      "answer": "They received all draft materials at the same time as the first group"
+    },
+    {
+      "question": "What was the caveat applied to the provisional unit cost results shared with the DfE?",
+      "options": [
+        "They were unreliable and not to be used at that stage",
+        "They were already final and ready for publication",
+        "They excluded undergraduate costs",
+        "They included international benchmarking"
+      ],
+      "answer": "They were unreliable and not to be used at that stage"
+    },
+    {
+      "question": "Which stakeholders were engaged during the study?",
+      "options": [
+        "Only academics from pilot institutions",
+        "Only TRAC managers and auditors",
+        "BUFDG, HESPA, Russell Group Finance Directors, and UUK",
+        "International universities and external consultants"
+      ],
+      "answer": "BUFDG, HESPA, Russell Group Finance Directors, and UUK"
+    },
+    {
+      "question": "How many institutions registered to participate in the main study?",
+      "options": [
+        "42",
+        "58",
+        "83",
+        "102"
+      ],
+      "answer": "83"
+    },
+    {
+      "question": "What additional support was provided to institutions completing the main study?",
+      "options": [
+        "A dedicated helpline, FAQs, training materials, and webinars",
+        "On-site visits to every institution",
+        "Financial incentives for faster completion",
+        "Pre-completed TRAC submissions"
+      ],
+      "answer": "A dedicated helpline, FAQs, training materials, and webinars"
+    },
+    {
+      "question": "What methodology was the study’s costing approach founded on?",
+      "options": [
+        "Zero-based costing",
+        "TRAC based cost methodology",
+        "Incremental budgeting",
+        "International benchmarking"
+      ],
+      "answer": "TRAC based cost methodology"
+    },
+    {
+      "question": "What was the purpose of providing guidance with the standard templates?",
+      "options": [
+        "To reduce financial reporting requirements",
+        "To promote consistent treatment of costs and accurate allocation to courses",
+        "To allow institutions flexibility in reporting",
+        "To simplify year-end audits"
+      ],
+      "answer": "To promote consistent treatment of costs and accurate allocation to courses"
+    },
+    {
+      "question": "Who had to confirm that the costs declared were representative of those incurred in delivering courses?",
+      "options": [
+        "TRAC managers",
+        "Vice Chancellors",
+        "Institution Directors of Finance",
+        "Department Heads"
+      ],
+      "answer": "Institution Directors of Finance"
+    },
+    {
+      "question": "Which external dataset was used to check consistency with institutions’ submissions?",
+      "options": [
+        "Office for Students (OfS) 2016-17 TRAC data",
+        "HESA staff workload surveys",
+        "National Student Survey (NSS)",
+        "UKRI funding reports"
+      ],
+      "answer": "Office for Students (OfS) 2016-17 TRAC data"
+    },
+    {
+      "question": "How were unusually high or low out-of-scope unit costs investigated?",
+      "options": [
+        "Through financial penalties",
+        "Via external auditors",
+        "By follow-up communications with institutions",
+        "By excluding them from the dataset"
+      ],
+      "answer": "By follow-up communications with institutions"
+    },
+    {
+      "question": "At what level were unit cost outliers examined when they fell outside three standard deviations?",
+      "options": [
+        "Faculty level",
+        "Course level",
+        "HESA cost centre level",
+        "University-wide level"
+      ],
+      "answer": "HESA cost centre level"
+    },
+    {
+      "question": "What materiality threshold from TRAC was applied to course costs?",
+      "options": [
+        "5%",
+        "8%",
+        "10%",
+        "15%"
+      ],
+      "answer": "10%"
+    },
+    {
+      "question": "Which of the following is NOT listed as a benefit of using TRAC principles?",
+      "options": [
+        "Provides a top-down model reconcilable to audited accounts",
+        "Allows institutions to freely adjust costs for this study",
+        "Is a sector-wide approach already embedded in HE",
+        "Establishes audit trails and accountability"
+      ],
+      "answer": "Allows institutions to freely adjust costs for this study"
+    },
+    {
+      "question": "Who approves TRAC returns each year within institutions?",
+      "options": [
+        "Department Heads",
+        "Finance Directors",
+        "Vice Chancellor and a governing body committee",
+        "External consultants"
+      ],
+      "answer": "Vice Chancellor and a governing body committee"
+    },
+    {
+      "question": "Why does TRAC reduce the risk of bias in costs allocated to teaching?",
+      "options": [
+        "Because it is governed and controlled at both sector and institutional levels",
+        "Because institutions have no role in preparing the data",
+        "Because only external auditors validate submissions",
+        "Because it removes all overhead costs"
+      ],
+      "answer": "Because it is governed and controlled at both sector and institutional levels"
+    },
+    {
+      "question": "Why was TRAC introduced in Higher Education Institutions (HEIs) from 1999-2000?",
+      "options": [
+        "To reduce staff workload",
+        "To increase transparency and accountability in the use of public funds",
+        "To simplify student fee calculations",
+        "To comply with EU funding rules"
+      ],
+      "answer": "To increase transparency and accountability in the use of public funds"
+    },
+    {
+      "question": "TRAC is best described as:",
+      "options": [
+        "An incremental budgeting model",
+        "A zero-based costing system",
+        "An Activity-Based Costing system",
+        "A profit maximisation framework"
+      ],
+      "answer": "An Activity-Based Costing system"
+    },
+    {
+      "question": "Which of the following is NOT one of the four core TRAC activity categories?",
+      "options": [
+        "Teaching",
+        "Research",
+        "Support",
+        "Marketing"
+      ],
+      "answer": "Marketing"
+    },
+    {
+      "question": "What was introduced in 2004 to evolve TRAC and reflect the true costs of sustaining HE provision?",
+      "options": [
+        "Dual Support Reform",
+        "Margin for Sustainability and Investment (MSI)",
+        "Full Economic Costing (fEC)",
+        "Student FTE allocation model"
+      ],
+      "answer": "Full Economic Costing (fEC)"
+    },
+    {
+      "question": "The introduction of full Economic Costing (fEC) was linked to reforms of which funding system?",
+      "options": [
+        "Research Excellence Framework",
+        "Dual Support System",
+        "HESA reporting",
+        "National Student Survey"
+      ],
+      "answer": "Dual Support System"
+    },
+    {
+      "question": "How much additional annual funding for research resulted from the reforms to the Dual Support System?",
+      "options": [
+        "£500 million",
+        "£750 million",
+        "£1 billion",
+        "£2 billion"
+      ],
+      "answer": "£1 billion"
+    },
+    {
+      "question": "Why does fEC add a Margin for Sustainability and Investment (MSI)?",
+      "options": [
+        "To adjust for exchange rate fluctuations",
+        "To reflect that audited accounts understate long-term costs",
+        "To simplify teaching costs",
+        "To comply with EU research rules"
+      ],
+      "answer": "To reflect that audited accounts understate long-term costs"
+    },
+    {
+      "question": "What two adjustments were replaced by the Margin for Sustainability and Investment (MSI)?",
+      "options": [
+        "Research and Teaching adjustments",
+        "Infrastructure and Return for Financing and Investment adjustments",
+        "Staffing and Estates adjustments",
+        "Corporate services and Outreach adjustments"
+      ],
+      "answer": "Infrastructure and Return for Financing and Investment adjustments"
+    },
+    {
+      "question": "Which financial measure is central to the MSI adjustment calculation?",
+      "options": [
+        "Gross Profit",
+        "Net Asset Value",
+        "Earnings Before Interest, Taxation, Depreciation and Amortisation (EBITDA)",
+        "Revenue per Student"
+      ],
+      "answer": "Earnings Before Interest, Taxation, Depreciation and Amortisation (EBITDA)"
+    },
+    {
+      "question": "In the costing model, what was deducted from the total Teaching cost in TRAC?",
+      "options": [
+        "Estates costs",
+        "Costs associated with overseas recruitment and support",
+        "Corporate services costs",
+        "Non-pay placement costs"
+      ],
+      "answer": "Costs associated with overseas recruitment and support"
+    },
+    {
+      "question": "Which hierarchy best represents the tiers of cost collection and aggregation in the study?",
+      "options": [
+        "Module → Course → Academic Department → Institution",
+        "Institution → Subject Group → HESA Cost Centre → Course → Module",
+        "Course → Institution → HESA Cost Centre → Subject Group → Module",
+        "Institution → Academic Department → Module → Course → Subject Group"
+      ],
+      "answer": "Institution → Subject Group → HESA Cost Centre → Course → Module"
+    },
+    {
+      "question": "What was the main purpose of applying cost drivers in the costing model?",
+      "options": [
+        "To exclude non-teaching staff costs",
+        "To allocate academic department costs to individual courses",
+        "To remove central services from cost allocations",
+        "To simplify institutional reporting"
+      ],
+      "answer": "To allocate academic department costs to individual courses"
+    },
+    {
+      "question": "Which cost category included libraries, museums, student facilities, and corporate services?",
+      "options": [
+        "A – Course delivery staff costs",
+        "C – Indirect departmental costs",
+        "D – Centrally allocated indirect costs",
+        "E – Estates costs"
+      ],
+      "answer": "D – Centrally allocated indirect costs"
+    },
+    {
+      "question": "What type of provision was removed as ‘out-of-scope teaching’ at the academic department level?",
+      "options": [
+        "Full-time undergraduate courses",
+        "Franchised provision, apprenticeships, and distance learning",
+        "Foundation year programmes",
+        "Publicly funded postgraduate research"
+      ],
+      "answer": "Franchised provision, apprenticeships, and distance learning"
+    },
+    {
+      "question": "At the final stage, how were course-level costs aggregated into subject groups?",
+      "options": [
+        "By student headcount only",
+        "Through HESA cost centre mappings",
+        "Using Vice Chancellor approval",
+        "By averaging departmental budgets"
+      ],
+      "answer": "Through HESA cost centre mappings"
+    },
+    {
+      "question": "What was the main cost source used to determine relevant teaching costs in the study?",
+      "options": [
+        "Departmental budgets only",
+        "Teaching cost from the Annual TRAC return",
+        "Overseas recruitment expenses",
+        "Postgraduate course fees"
+      ],
+      "answer": "Teaching cost from the Annual TRAC return"
+    },
+    {
+      "question": "Which of the following costs were explicitly excluded from the study?",
+      "options": [
+        "Undergraduate teaching costs",
+        "Foundation provision costs",
+        "Discrete non-teaching costs for overseas student recruitment",
+        "Academic department operating costs"
+      ],
+      "answer": "Discrete non-teaching costs for overseas student recruitment"
+    },
+    {
+      "question": "How were student FTEs defined for the purpose of this study?",
+      "options": [
+        "By the number of registered students only",
+        "By headcount at the start of the academic year",
+        "Using STULOAD in the HESA return at the end of the academic year",
+        "By projected enrolments for the next academic year"
+      ],
+      "answer": "Using STULOAD in the HESA return at the end of the academic year"
+    },
+    {
+      "question": "What expectation was placed on participating institutions regarding their student FTE and headcount data?",
+      "options": [
+        "It could differ slightly from the HESA Student Record",
+        "It had to match exactly with their student record system and HESA data",
+        "It only needed to include overseas students",
+        "It could be estimated without supporting records"
+      ],
+      "answer": "It had to match exactly with their student record system and HESA data"
+    },
+    {
+      "question": "What kind of validation checks were included in the data collection template?",
+      "options": [
+        "Verification of student satisfaction scores",
+        "Completeness of records and reconciliation of TRAC costs",
+        "Peer review of departmental teaching quality",
+        "Approval from HESA before submission"
+      ],
+      "answer": "Completeness of records and reconciliation of TRAC costs"
+    },
+    {
+      "question": "Which of the following contextual information was collected regarding teaching costs?",
+      "options": [
+        "Student social club activities",
+        "Significant one-off costs in 2016-17",
+        "Sports facility investments",
+        "Library usage statistics"
+      ],
+      "answer": "Significant one-off costs in 2016-17"
+    },
+    {
+      "question": "What factor was considered in relation to undergraduate or foundation course fees?",
+      "options": [
+        "Government grant allocations",
+        "Factors influencing course fee setting for home or EU students",
+        "Marketing strategies for overseas recruitment",
+        "Student union recommendations"
+      ],
+      "answer": "Factors influencing course fee setting for home or EU students"
+    },
+    {
+      "question": "Institutions were asked whether they charged students for:",
+      "options": [
+        "Sports memberships",
+        "Accommodation services",
+        "Additional materials or resources beyond tuition fees",
+        "Graduation ceremony costs"
+      ],
+      "answer": "Additional materials or resources beyond tuition fees"
+    },
+    {
+      "question": "What type of expenditure was included in contextual information collection?",
+      "options": [
+        "Teaching-related capital expenditure from 2014/15 to 2019/20",
+        "Library subscription fees only",
+        "Overseas marketing budgets",
+        "Student welfare funds"
+      ],
+      "answer": "Teaching-related capital expenditure from 2014/15 to 2019/20"
+    },
+    {
+      "question": "How many English institutions delivered in-scope provision and submitted data to the 2016-17 HESA record?",
+      "options": [
+        "133",
+        "122",
+        "54",
+        "41"
+      ],
+      "answer": "122"
+    },
+    {
+      "question": "How many completed returns were finally accepted for the study?",
+      "options": [
+        "41",
+        "40",
+        "54",
+        "75"
+      ],
+      "answer": "40"
+    },
+    {
+      "question": "What percentage of institutions possible was represented by the 40 accepted returns?",
+      "options": [
+        "41.0%",
+        "33.6%",
+        "32.8%",
+        "54.0%"
+      ],
+      "answer": "32.8%"
+    },
+    {
+      "question": "What dataset was used as a common basis for comparison in the coverage assessment?",
+      "options": [
+        "Annual TRAC financial returns",
+        "The 2016-17 HESA student record",
+        "Institutional annual reports",
+        "National student survey results"
+      ],
+      "answer": "The 2016-17 HESA student record"
+    },
+    {
+      "question": "How many student FTEs in total were included across all in-scope provision in the HESA dataset?",
+      "options": [
+        "1,122,245",
+        "1,224,245",
+        "122,245",
+        "2,245,100"
+      ],
+      "answer": "1,224,245"
+    },
+    {
+      "question": "Which dimensions were used to assess coverage of the participating institutions?",
+      "options": [
+        "Subject groups, HESA cost centres, regional presence, TRAC peer groups",
+        "Student satisfaction, faculty rankings, library access, sports facilities",
+        "Course length, staff experience, placement funding, capital expenditure",
+        "Government funding, private endowments, tuition fees, alumni donations"
+      ],
+      "answer": "Subject groups, HESA cost centres, regional presence, TRAC peer groups"
+    },
+    {
+      "question": "What was the overall student FTE coverage achieved by the 40 data returns?",
+      "options": [
+        "32.8%",
+        "38.4%",
+        "41.0%",
+        "52.0%"
+      ],
+      "answer": "38.4%"
+    },
+    {
+      "question": "How many student FTEs were covered out of the total 1,224,245?",
+      "options": [
+        "322,845",
+        "470,165",
+        "510,245",
+        "1,122,245"
+      ],
+      "answer": "470,165"
+    },
+    {
+      "question": "What was the coverage by number of institutions?",
+      "options": [
+        "32.8%",
+        "38.4%",
+        "41.5%",
+        "57%"
+      ],
+      "answer": "32.8%"
+    },
+    {
+      "question": "Which subject group achieved the highest student FTE coverage?",
+      "options": [
+        "Engineering",
+        "Medical, dental and veterinary science",
+        "Social sciences, history, economics",
+        "English, law and modern languages"
+      ],
+      "answer": "Medical, dental and veterinary science"
+    },
+    {
+      "question": "Which subject group achieved the lowest student FTE coverage?",
+      "options": [
+        "Medical, dental and veterinary science",
+        "Art and design and architecture",
+        "Social sciences, history, economics",
+        "Maths, physics, chemistry, informatics and computing"
+      ],
+      "answer": "Social sciences, history, economics"
+    },
+    {
+      "question": "Which HESA cost centre had the highest coverage?",
+      "options": [
+        "Clinical dentistry",
+        "Continuing education",
+        "Engineering and technology",
+        "English studies"
+      ],
+      "answer": "Clinical dentistry"
+    },
+    {
+      "question": "Which HESA cost centre had the lowest coverage?",
+      "options": [
+        "Social sciences",
+        "Continuing education",
+        "Medical sciences",
+        "Engineering"
+      ],
+      "answer": "Continuing education"
+    },
+    {
+      "question": "What was the FTE coverage percentage achieved across the North region?",
+      "options": [
+        "19%",
+        "23%",
+        "38%",
+        "46%"
+      ],
+      "answer": "46%"
+    },
+    {
+      "question": "What was the coverage percentage for TRAC Peer Group F?",
+      "options": [
+        "17%",
+        "30%",
+        "46%",
+        "57%"
+      ],
+      "answer": "57%"
+    },
+    {
+      "question": "What mitigating factor explains the low coverage for Continuing Education?",
+      "options": [
+        "It had very few institutions providing data",
+        "The provision for Continuing Education is very small compared to other cost centres",
+        "The majority of students were excluded due to TRAC non-compliance",
+        "Student numbers were capped by professional bodies"
+      ],
+      "answer": "The provision for Continuing Education is very small compared to other cost centres"
+    },
+    {
+      "question": "Which HESA cost centre had the lowest student FTE coverage?",
+      "options": [
+        "Agriculture, forestry and food science",
+        "Philosophy",
+        "Continuing education",
+        "Theology and religious studies"
+      ],
+      "answer": "Continuing education"
+    },
+    {
+      "question": "Which HESA cost centre achieved the highest student FTE coverage?",
+      "options": [
+        "Clinical medicine",
+        "Veterinary science",
+        "Clinical dentistry",
+        "Architecture, built environment and planning"
+      ],
+      "answer": "Clinical dentistry"
+    },
+    {
+      "question": "What was the range of coverage percentages across HESA cost centres?",
+      "options": [
+        "8% to 30%",
+        "8% to 40%",
+        "8% to 52%",
+        "8% to 56%"
+      ],
+      "answer": "8% to 56%"
+    },
+    {
+      "question": "How many HESA cost centres had less than 30% coverage?",
+      "options": [
+        "Four",
+        "Eight",
+        "Ten",
+        "Twelve"
+      ],
+      "answer": "Eight"
+    },
+    {
+      "question": "What percentage of the total student FTEs did the eight low-coverage cost centres represent?",
+      "options": [
+        "9.6%",
+        "18%",
+        "21%",
+        "30%"
+      ],
+      "answer": "9.6%"
+    },
+    {
+      "question": "Which subject group included the Education cost centre with only 23% coverage?",
+      "options": [
+        "Engineering",
+        "Social sciences, history, economics",
+        "Biological sciences",
+        "Geology and environmental sciences"
+      ],
+      "answer": "Social sciences, history, economics"
+    },
+    {
+      "question": "Which region achieved the highest student FTE coverage?",
+      "options": [
+        "London",
+        "Midlands",
+        "North",
+        "South West and East"
+      ],
+      "answer": "North"
+    },
+    {
+      "question": "What was the student FTE coverage percentage for the Midlands region?",
+      "options": [
+        "19%",
+        "21%",
+        "33%",
+        "46%"
+      ],
+      "answer": "19%"
+    },
+    {
+      "question": "What was the student FTE coverage percentage for London?",
+      "options": [
+        "18%",
+        "33%",
+        "39%",
+        "46%"
+      ],
+      "answer": "39%"
+    },
+    {
+      "question": "What share of all student FTEs was represented by the North region?",
+      "options": [
+        "18%",
+        "21%",
+        "30%",
+        "31%"
+      ],
+      "answer": "30%"
+    },
+    {
+      "question": "How are higher education institutions categorised under TRAC?",
+      "options": [
+        "By geographical location",
+        "By similarity of financial scale and research income",
+        "By number of enrolled students",
+        "By subject groups taught"
+      ],
+      "answer": "By similarity of financial scale and research income"
+    },
+    {
+      "question": "Why does Peer Group F show a high level of student FTE coverage despite low student numbers?",
+      "options": [
+        "It includes all medical and dental institutions",
+        "It represents only large universities with high student numbers",
+        "It typically has lower student volumes but strong FTE coverage",
+        "It includes overseas students in its data"
+      ],
+      "answer": "It typically has lower student volumes but strong FTE coverage"
+    },
+    {
+      "question": "What level of coverage did Peer Group B institutions achieve?",
+      "options": [
+        "10%",
+        "15%",
+        "17%",
+        "20%"
+      ],
+      "answer": "20%"
+    },
+    {
+      "question": "How were Peer Group B and Peer Group E treated in the study?",
+      "options": [
+        "They were excluded due to low coverage",
+        "They were grouped with A and D respectively due to shared characteristics",
+        "They were analysed separately to ensure accuracy",
+        "They were merged into a single new Peer Group"
+      ],
+      "answer": "They were grouped with A and D respectively due to shared characteristics"
+    },
+    {
+      "question": "Which subject group contained most of the TRAC Peer Group F institutions?",
+      "options": [
+        "Medical, dental and veterinary science",
+        "Art and design and architecture (including performing arts)",
+        "Engineering and technology",
+        "Social sciences and economics"
+      ],
+      "answer": "Art and design and architecture (including performing arts)"
+    },
+    {
+      "question": "Institutions teaching medical, dental and veterinary sciences were mainly associated with which Peer Groups?",
+      "options": [
+        "Peer Groups C and D",
+        "Peer Groups D and E",
+        "Peer Groups A and B",
+        "Peer Group F"
+      ],
+      "answer": "Peer Groups A and B"
+    },
+    {
+      "question": "What was the approximate minimum coverage achieved across subject groups?",
+      "options": [
+        "20%",
+        "30%",
+        "35%",
+        "50%"
+      ],
+      "answer": "35%"
+    },
+    {
+      "question": "What was a key focus of the study in relation to institutional data returns?",
+      "options": [
+        "To increase funding allocations",
+        "To analyse the reasonableness and consistency of data returns",
+        "To expand TRAC methodology",
+        "To develop new student FTE categories"
+      ],
+      "answer": "To analyse the reasonableness and consistency of data returns"
+    },
+    {
+      "question": "How did the course-level data in this study compare to TRAC data used by HEFCE?",
+      "options": [
+        "It was more aggregated and less detailed",
+        "It was at a lower level of granularity, allowing more extensive checks",
+        "It used the same level of granularity",
+        "It was excluded from funding reviews"
+      ],
+      "answer": "It was at a lower level of granularity, allowing more extensive checks"
+    },
+    {
+      "question": "How many submissions were rejected due to significant deviations and unverifiable costs?",
+      "options": [
+        "None",
+        "One",
+        "Two",
+        "Five"
+      ],
+      "answer": "One"
+    },
+    {
+      "question": "What type of sign-off was required before submission of data returns?",
+      "options": [
+        "Approval by the Department for Education",
+        "Approval by the Chancellor",
+        "Sign-off by the Director of Finance or senior equivalent",
+        "Approval by student representatives"
+      ],
+      "answer": "Sign-off by the Director of Finance or senior equivalent"
+    },
+    {
+      "question": "What was the purpose of the ‘traffic light’ system in the data return?",
+      "options": [
+        "To rank institutions by cost efficiency",
+        "To assess completeness and identify errors",
+        "To measure research income",
+        "To validate HESA student enrolments"
+      ],
+      "answer": "To assess completeness and identify errors"
+    },
+    {
+      "question": "Institutions were asked to review differences greater than what percentage between their FTE submissions and HESA data?",
+      "options": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": "10%"
+    },
+    {
+      "question": "Which categories of costs required closer review for allocation methods?",
+      "options": [
+        "Marketing and outreach costs",
+        "Library and student services costs",
+        "Course delivery (pay) and estates costs",
+        "Administrative and IT costs"
+      ],
+      "answer": "Course delivery (pay) and estates costs"
+    },
+    {
+      "question": "What was the total declared one-off cost across all institutions for 2016-17?",
+      "options": [
+        "£1.54 million",
+        "£10.4 million",
+        "£15.4 million",
+        "£54 million"
+      ],
+      "answer": "£15.4 million"
+    },
+    {
+      "question": "What percentage of the total cost submitted did the one-off costs represent?",
+      "options": [
+        "0.3%",
+        "1%",
+        "3%",
+        "10%"
+      ],
+      "answer": "0.3%"
+    },
+    {
+      "question": "How were unresolved queries about in-scope FTE handled?",
+      "options": [
+        "They were excluded without review",
+        "They were estimated using HESA comparative figures and sensitivity analyses",
+        "They were allocated to research costs",
+        "They were adjusted by applying a flat 10% correction"
+      ],
+      "answer": "They were estimated using HESA comparative figures and sensitivity analyses"
+    },
+    {
+      "question": "Which region had the highest student FTE coverage percentage?",
+      "options": [
+        "London",
+        "Midlands",
+        "North",
+        "South West and East"
+      ],
+      "answer": "North"
+    },
+    {
+      "question": "Why did the lower coverage in the Midlands not cause undue concern?",
+      "options": [
+        "Because it had the smallest number of institutions",
+        "Because its share of all student FTEs was relatively lower and did not impact costs",
+        "Because London already had higher coverage",
+        "Because Midlands institutions were excluded from the analysis"
+      ],
+      "answer": "Because its share of all student FTEs was relatively lower and did not impact costs"
+    },
+    {
+      "question": "Which TRAC Peer Group showed a low number of students but a high level of student FTE coverage?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "F"
+      ],
+      "answer": "F"
+    },
+    {
+      "question": "Institutions with research income of 15% or more of total income achieved coverage of what percentage?",
+      "options": [
+        "17%",
+        "20%",
+        "30%",
+        "46%"
+      ],
+      "answer": "20%"
+    },
+    {
+      "question": "Which subject group achieved the highest student FTE coverage percentage?",
+      "options": [
+        "Engineering",
+        "Medical, dental and veterinary science",
+        "Social sciences, history, economics",
+        "Art and design and architecture"
+      ],
+      "answer": "Medical, dental and veterinary science"
+    },
+    {
+      "question": "What was the main focus of the data validation process in the study?",
+      "options": [
+        "To ensure institutions submitted course-level income statements",
+        "To check whether the prescribed methodology was applied consistently",
+        "To verify all institutions had identical TRAC data",
+        "To reject submissions with high student FTEs"
+      ],
+      "answer": "To check whether the prescribed methodology was applied consistently"
+    },
+    {
+      "question": "Who was required to sign off on the data submissions?",
+      "options": [
+        "Vice-Chancellor",
+        "Head of Department",
+        "Director of Finance or senior equivalent",
+        "External auditor"
+      ],
+      "answer": "Director of Finance or senior equivalent"
+    },
+    {
+      "question": "How were differences greater than 10% between submitted student FTE data and HESA data handled?",
+      "options": [
+        "They were ignored as immaterial",
+        "Institutions were asked to review the differences",
+        "They led to automatic rejection of submissions",
+        "They were averaged across institutions"
+      ],
+      "answer": "Institutions were asked to review the differences"
+    },
+    {
+      "question": "What was the total one-off cost declared in submissions?",
+      "options": [
+        "£1.5 million",
+        "£10 million",
+        "£15.4 million",
+        "£30 million"
+      ],
+      "answer": "£15.4 million"
+    },
+    {
+      "question": "What percentage of the total submitted cost did the one-off costs represent?",
+      "options": [
+        "0.3%",
+        "1%",
+        "3%",
+        "10%"
+      ],
+      "answer": "0.3%"
+    },
+    {
+      "question": "How were unresolved queries about in-scope FTE handled?",
+      "options": [
+        "They were excluded without review",
+        "They were estimated using HESA comparative figures and sensitivity analyses",
+        "They were allocated to research costs",
+        "They were adjusted by applying a flat 10% correction"
+      ],
+      "answer": "They were estimated using HESA comparative figures and sensitivity analyses"
+    },
+    {
+      "question": "Which types of provision were considered out-of-scope for teaching cost adjustments?",
+      "options": [
+        "Undergraduate degrees, part-time courses, and online modules",
+        "Postgraduate, distance learning, franchised out, apprenticeships, and short courses",
+        "Medical, veterinary, and dental courses only",
+        "Courses taught outside England"
+      ],
+      "answer": "Postgraduate, distance learning, franchised out, apprenticeships, and short courses"
+    },
+    {
+      "question": "What proportion of total costs and FTEs did out-of-scope provision account for?",
+      "options": [
+        "10.5% and 12.1%",
+        "15% and 17%",
+        "20.7% and 20.9%",
+        "25% and 30%"
+      ],
+      "answer": "20.7% and 20.9%"
+    },
+    {
+      "question": "Which category made up the largest share of out-of-scope costs?",
+      "options": [
+        "Franchised out provision",
+        "Apprenticeships",
+        "Postgraduate provision",
+        "Distance learning"
+      ],
+      "answer": "Postgraduate provision"
+    },
+    {
+      "question": "What percentage of out-of-scope costs did postgraduate provision represent?",
+      "options": [
+        "61%",
+        "71%",
+        "81%",
+        "91%"
+      ],
+      "answer": "81%"
+    },
+    {
+      "question": "Why was one institution excluded from further out-of-scope validation procedures?",
+      "options": [
+        "It had no postgraduate students",
+        "It reported nil out-of-scope costs due to overseas adjustment but provided valid supporting evidence",
+        "It failed to provide TRAC submissions",
+        "It declined to participate in the study"
+      ],
+      "answer": "It reported nil out-of-scope costs due to overseas adjustment but provided valid supporting evidence"
+    },
+    {
+      "question": "What was the correlation calculated between proportions of out-of-scope costs and FTEs?",
+      "options": [
+        "0.45 (weak correlation)",
+        "0.65 (moderate correlation)",
+        "0.89 (strong correlation)",
+        "0.99 (perfect correlation)"
+      ],
+      "answer": "0.89 (strong correlation)"
+    },
+    {
+      "question": "Which group of institutions had out-of-scope costs LOWER than their share of out-of-scope FTEs?",
+      "options": [
+        "London-based Group A institutions",
+        "Post-92 institutions outside London",
+        "Specialist postgraduate institutions in London",
+        "Russell Group institutions"
+      ],
+      "answer": "Post-92 institutions outside London"
+    },
+    {
+      "question": "Which group of institutions had out-of-scope costs HIGHER than their share of out-of-scope FTEs?",
+      "options": [
+        "Five post-92 institutions outside London",
+        "Four London institutions, Group A or C",
+        "Specialist rural institutions",
+        "Distance-learning providers"
+      ],
+      "answer": "Four London institutions, Group A or C"
+    },
+    {
+      "question": "What was the highest weighting applied to out-of-scope FTEs for postgraduate provision?",
+      "options": [
+        "1.0",
+        "1.5",
+        "2.0",
+        "2.3"
+      ],
+      "answer": "2.3"
+    },
+    {
+      "question": "Why did some institutions apply a weighting of less than 1 to out-of-scope provision?",
+      "options": [
+        "Because postgraduate teaching had higher teaching staff costs",
+        "Because students had less physical presence (e.g., distance or franchised courses)",
+        "Because postgraduate courses shared modules with undergraduates",
+        "Because apprenticeships were still in early evolution"
+      ],
+      "answer": "Because students had less physical presence (e.g., distance or franchised courses)"
+    },
+    {
+      "question": "What was the most common weighting applied by institutions for postgraduate provision?",
+      "options": [
+        "0.75",
+        "1.0",
+        "1.25",
+        "2.0"
+      ],
+      "answer": "1.0"
+    },
+    {
+      "question": "What was the main objective of the outlier methodology described in section 6.6.1?",
+      "options": [
+        "To adjust for low FTE courses",
+        "To identify data points that do not conform to the observed distribution of responses",
+        "To exclude postgraduate costs",
+        "To compare costs across London and non-London institutions"
+      ],
+      "answer": "To identify data points that do not conform to the observed distribution of responses"
+    },
+    {
+      "question": "Why was a natural logarithm transformation applied to the cost data?",
+      "options": [
+        "Because course costs are normally distributed",
+        "Because course costs are always negative",
+        "Because course costs are always positive and skewed to the right",
+        "To standardise FTE values"
+      ],
+      "answer": "Because course costs are always positive and skewed to the right"
+    },
+    {
+      "question": "What threshold was used to flag potential outliers in the dataset?",
+      "options": [
+        "Two standard deviations from the mean",
+        "Three standard deviations from the mean",
+        "Median absolute deviation",
+        "Five standard deviations from the mean"
+      ],
+      "answer": "Three standard deviations from the mean"
+    },
+    {
+      "question": "At what level were outlier checks performed to account for systematic subject differences?",
+      "options": [
+        "Institution level",
+        "HESA cost centre level",
+        "TRAC Peer Group level",
+        "Course year level"
+      ],
+      "answer": "HESA cost centre level"
+    },
+    {
+      "question": "Why were courses with low FTEs not adjusted in the course-level validation process?",
+      "options": [
+        "They had a negligible proportion of cost and similar unit costs to larger courses",
+        "They were excluded from the study entirely",
+        "They were always considered erroneous submissions",
+        "They were merged into postgraduate provision"
+      ],
+      "answer": "They had a negligible proportion of cost and similar unit costs to larger courses"
+    },
+    {
+      "question": "What does TRAC(T) stand for?",
+      "options": [
+        "Teaching Resource Allocation Costing (Trial)",
+        "Transparent Approach to Costing for Teaching",
+        "Teaching Resource Assessment for Courses and Training",
+        "Total Revenue and Costing (Teaching)"
+      ],
+      "answer": "Transparent Approach to Costing for Teaching"
+    },
+    {
+      "question": "How much higher on average were study unit costs compared to Subject-FACTS unit costs?",
+      "options": [
+        "2.5%",
+        "6.8%",
+        "10%",
+        "15%"
+      ],
+      "answer": "6.8%"
+    },
+    {
+      "question": "What proportion of the 6.8% difference between study unit costs and Subject-FACTS was explained by bursaries?",
+      "options": [
+        "2.4%",
+        "3.4%",
+        "5.4%",
+        "6.8%"
+      ],
+      "answer": "5.4%"
+    },
+    {
+      "question": "Which subject group showed a low unit cost due to an institution with specific characteristics?",
+      "options": [
+        "Engineering",
+        "Art and Design and Architecture",
+        "Medical, dental and veterinary science",
+        "Social sciences, history, economics"
+      ],
+      "answer": "Medical, dental and veterinary science"
+    },
+    {
+      "question": "What was one main reason for differences in FTE data between the study and TRAC(T)?",
+      "options": [
+        "Exclusion of distance learning",
+        "Adjustments for non-completing students",
+        "Errors in financial reconciliation",
+        "London weighting of costs"
+      ],
+      "answer": "Adjustments for non-completing students"
+    },
+    {
+      "question": "How many queries were raised during the cost category review due to missing or outlier costs?",
+      "options": [
+        "24",
+        "41",
+        "52",
+        "240"
+      ],
+      "answer": "52"
+    },
+    {
+      "question": "What was a common reason institutions gave for not reallocating certain costs in their resubmissions?",
+      "options": [
+        "Insufficient systems and time pressures",
+        "Errors in TRAC methodology",
+        "Auditor recommendations",
+        "Lack of financial data"
+      ],
+      "answer": "Insufficient systems and time pressures"
+    },
+    {
+      "question": "How many validation queries were issued to institutions to confirm and understand variations?",
+      "options": [
+        "52",
+        "240",
+        "600",
+        "2,172"
+      ],
+      "answer": "240"
+    },
+    {
+      "question": "How many institution submissions were excluded entirely after validation?",
+      "options": [
+        "0",
+        "1",
+        "5",
+        "6"
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "What was the conclusion about the six outstanding queries across five institutions?",
+      "options": [
+        "They created a material risk in subject group unit costs",
+        "They were excluded from analysis",
+        "They were likely immaterial to overall results",
+        "They were verified by external auditors"
+      ],
+      "answer": "They were likely immaterial to overall results"
+    },
+    {
+      "question": "Which of the following was identified as a limitation of the study?",
+      "options": [
+        "All costs were independently audited",
+        "Institutions were not required to sign off cost allocations",
+        "Reliance on institutions’ judgment and unverified responses",
+        "Part-time provision was excluded"
+      ],
+      "answer": "Reliance on institutions’ judgment and unverified responses"
+    },
+    {
+      "question": "What materiality threshold was permitted in the study guidance?",
+      "options": [
+        "5%",
+        "8%",
+        "10%",
+        "15%"
+      ],
+      "answer": "10%"
+    },
+    {
+      "question": "What is the basis of the weighted average unit cost calculation?",
+      "options": [
+        "Forecast costs for the next five years",
+        "Full Economic Cost (fEC) from TRAC",
+        "Only direct teaching staff costs",
+        "Audited HESA comparative figures"
+      ],
+      "answer": "Full Economic Cost (fEC) from TRAC"
+    },
+    {
+      "question": "Which student groups were included in the weighted average unit cost calculation?",
+      "options": [
+        "Home students only",
+        "Overseas students only",
+        "Home and overseas students",
+        "Undergraduate students only"
+      ],
+      "answer": "Home and overseas students"
+    },
+    {
+      "question": "How is a subject group’s weighted average unit cost calculated across multiple institutions?",
+      "options": [
+        "By averaging each institution’s cost per FTE",
+        "By dividing all relevant costs by all relevant students",
+        "By applying a 10% margin to each institution’s costs",
+        "By weighting based on London adjustments only"
+      ],
+      "answer": "By dividing all relevant costs by all relevant students"
+    },
+    {
+      "question": "Which subject group had the highest weighted average unit cost for full-time provision?",
+      "options": [
+        "Engineering",
+        "Medical, dental and veterinary science",
+        "Biological sciences and other subjects allied to health",
+        "Art and design and Architecture"
+      ],
+      "answer": "Medical, dental and veterinary science"
+    },
+    {
+      "question": "Approximately how much higher was the weighted average unit cost of Medical, dental and veterinary science compared to the next highest subject group?",
+      "options": [
+        "£4,000",
+        "£5,000",
+        "£6,400",
+        "£8,000"
+      ],
+      "answer": "£6,400"
+    },
+    {
+      "question": "Which two subject groups had the lowest weighted average unit costs, within £100 of each other?",
+      "options": [
+        "Engineering and Maths, physics, chemistry, informatics and computing",
+        "Social sciences, history, economics and English, law and modern languages",
+        "Art and design and Architecture and Geology, environmental sciences, archaeology",
+        "Biological sciences and other subjects allied to health and Medical sciences"
+      ],
+      "answer": "Social sciences, history, economics and English, law and modern languages"
+    },
+    {
+      "question": "Which subject group contributed the largest number of student FTEs in the study?",
+      "options": [
+        "Engineering",
+        "Biological sciences and other subjects allied to health",
+        "Social sciences, history, economics",
+        "Medical, dental and veterinary science"
+      ],
+      "answer": "Social sciences, history, economics"
+    },
+    {
+      "question": "What proportion of the full-time total student FTEs did Biological sciences and other subjects allied to health represent?",
+      "options": [
+        "15%",
+        "20%",
+        "23%",
+        "30%"
+      ],
+      "answer": "23%"
+    },
+    {
+      "question": "Why might the unit costs in Medical, dental and veterinary science show wider variation across institutions?",
+      "options": [
+        "Differences in student number caps",
+        "Variation in inclusion of placement costs",
+        "Inconsistent subject group definitions",
+        "Different funding allocations from TRAC"
+      ],
+      "answer": "Variation in inclusion of placement costs"
+    },
+    {
+      "question": "Which funding body supports placement provision for medical students?",
+      "options": [
+        "Research England",
+        "Office for Students",
+        "Health Education England",
+        "Department for Education"
+      ],
+      "answer": "Health Education England"
+    },
+    {
+      "question": "Which subject group reassignment was modelled from Art and design and architecture?",
+      "options": [
+        "Social sciences, history, economics",
+        "Geology, environmental sciences, archaeology and ancient history",
+        "Engineering",
+        "Biological sciences and other subjects allied to health"
+      ],
+      "answer": "Geology, environmental sciences, archaeology and ancient history"
+    },
+    {
+      "question": "Which subject was considered for reassignment from Maths, physics, chemistry, informatics and computing to Social sciences, history and economics?",
+      "options": [
+        "Architecture",
+        "Engineering",
+        "Mathematics",
+        "Geology"
+      ],
+      "answer": "Mathematics"
+    },
+    {
+      "question": "Why could the study not isolate the impact of lifting student number controls on unit costs?",
+      "options": [
+        "Placement costs were excluded",
+        "Data collection did not include year-by-year activity",
+        "Institutions did not provide FTE data",
+        "TRAC methodology changed during the period"
+      ],
+      "answer": "Data collection did not include year-by-year activity"
+    },
+    {
+      "question": "Which TRAC peer group consistently had lower unit costs for full-time provision?",
+      "options": [
+        "C",
+        "D and E",
+        "A and B",
+        "F"
+      ],
+      "answer": "A and B"
+    },
+    {
+      "question": "What was the median unit cost for Medical, dental and veterinary science?",
+      "options": [
+        "£10,410",
+        "£17,480",
+        "£18,003",
+        "£14,302"
+      ],
+      "answer": "£17,480"
+    },
+    {
+      "question": "Which subject group had the lowest weighted average unit cost for full-time provision?",
+      "options": [
+        "Social sciences, history, economics",
+        "English, law and modern languages",
+        "Biological sciences and allied health",
+        "Art and design and architecture"
+      ],
+      "answer": "English, law and modern languages"
+    },
+    {
+      "question": "What is noted as one reason for lower unit costs in TRAC group A and B institutions?",
+      "options": [
+        "Higher staff costs",
+        "Fewer students per staff member",
+        "Larger scale and more students per staff member",
+        "Less research income"
+      ],
+      "answer": "Larger scale and more students per staff member"
+    },
+    {
+      "question": "Which subject group had the greatest standard deviation in unit costs?",
+      "options": [
+        "Art and design and architecture",
+        "Geology, environmental sciences, archaeology and ancient history",
+        "Medical, dental and veterinary science",
+        "Biological sciences and allied health"
+      ],
+      "answer": "Medical, dental and veterinary science"
+    },
+    {
+      "question": "Which two subject groups had weighted average unit costs below the £9,250 tuition fee level in 2016-17?",
+      "options": [
+        "Art and design and architecture; Engineering",
+        "English, law and modern languages; Social sciences, history, economics",
+        "Biological sciences; Maths and computing",
+        "Geology; Social sciences, history, economics"
+      ],
+      "answer": "English, law and modern languages; Social sciences, history, economics"
+    },
+    {
+      "question": "Institutions with the highest unit costs were most commonly located where?",
+      "options": [
+        "North of the country",
+        "Midlands",
+        "London",
+        "South West"
+      ],
+      "answer": "London"
+    },
+    {
+      "question": "Which subject group showed a wide range with mean plus 10% greater than the maximum value for a 95% confidence interval?",
+      "options": [
+        "Engineering",
+        "Medical, dental and veterinary science",
+        "Biological sciences",
+        "Social sciences, history, economics"
+      ],
+      "answer": "Medical, dental and veterinary science"
+    },
+    {
+      "question": "Which subject groups exhibited normal distributions (with some skew) in their unit costs?",
+      "options": [
+        "Art and design; Biological sciences; Maths and computing",
+        "Engineering; English, law and modern languages; Social sciences, history, economics",
+        "Medical sciences; Geology; Architecture",
+        "All subject groups equally"
+      ],
+      "answer": "Engineering; English, law and modern languages; Social sciences, history, economics"
+    },
+    {
+      "question": "What type of distribution was observed for Art and design, Biological sciences, Geology, Maths and computing, and Medical sciences?",
+      "options": [
+        "Normal",
+        "Uniform",
+        "Bimodal",
+        "Random"
+      ],
+      "answer": "Bimodal"
+    },
+    {
+      "question": "Why might the mode be a more appropriate unit cost measure for some subject groups?",
+      "options": [
+        "Because mean values are not statistically valid",
+        "Because distributions can be bimodal with two peaks",
+        "Because weighted averages are always biased",
+        "Because institutions report incomplete data"
+      ],
+      "answer": "Because distributions can be bimodal with two peaks"
+    },
+    {
+      "question": "Which factor contributed to high unit costs for an English course at one institution?",
+      "options": [
+        "Increased research funding",
+        "New staff overlapping with outgoing staff",
+        "Reduced student intake",
+        "Course accreditation requirements"
+      ],
+      "answer": "New staff overlapping with outgoing staff"
+    },
+    {
+      "question": "What was the main reason for high unit costs in one institution's sports science department?",
+      "options": [
+        "Hiring more staff",
+        "Relocation and additional estate costs",
+        "Purchase of expensive lab equipment",
+        "Fewer teaching hours per student"
+      ],
+      "answer": "Relocation and additional estate costs"
+    },
+    {
+      "question": "Why did one institution expect their unit costs to be higher than more centralised institutions?",
+      "options": [
+        "They offered fewer credits per course",
+        "They delivered courses through small, specialised schools tailored to students",
+        "They lacked accreditation from oversight bodies",
+        "They used less equipment and facilities"
+      ],
+      "answer": "They delivered courses through small, specialised schools tailored to students"
+    },
+    {
+      "question": "Which of the following is NOT listed as a factor that can limit flexibility in course resourcing?",
+      "options": [
+        "Accreditation requirements by professional bodies",
+        "Resource intensity of subjects",
+        "Student demands and market pressures",
+        "Faculty members’ personal teaching preferences"
+      ],
+      "answer": "Faculty members’ personal teaching preferences"
+    },
+    {
+      "question": "What do variations in unit costs across courses primarily reflect?",
+      "options": [
+        "Errors in institutional reporting",
+        "The multi-factorial nature of course provision",
+        "Government-mandated funding differences",
+        "Tuition fee caps"
+      ],
+      "answer": "The multi-factorial nature of course provision"
+    },
+    {
+      "question": "Why was HESA cost centre level information not reported for part-time and foundation provision?",
+      "options": [
+        "Because tuition fees were too low",
+        "Due to the small number of data returns and low student FTEs",
+        "Because weighted averages could not be calculated",
+        "Because institutions declined to participate"
+      ],
+      "answer": "Due to the small number of data returns and low student FTEs"
+    },
+    {
+      "question": "What was the range of variation in unit costs among HESA cost centres within subject groups?",
+      "options": [
+        "£500 to £1,500",
+        "£1,303 to £4,697",
+        "£2,000 to £7,500",
+        "£10,000 to £20,000"
+      ],
+      "answer": "£1,303 to £4,697"
+    },
+    {
+      "question": "Which HESA cost centre within Biological sciences had the highest unit cost?",
+      "options": [
+        "Biosciences",
+        "Nursing & allied health professions",
+        "Anatomy & physiology",
+        "Pharmacy & pharmacology"
+      ],
+      "answer": "Anatomy & physiology"
+    },
+    {
+      "question": "What explains the higher cost of Anatomy & physiology provision?",
+      "options": [
+        "Higher tuition fees charged",
+        "Higher professional grade staff and greater contact time",
+        "Lower economies of scale",
+        "Additional estate maintenance costs"
+      ],
+      "answer": "Higher professional grade staff and greater contact time"
+    },
+    {
+      "question": "In Geology, which cost centre had a lower unit cost compared to Agriculture, forestry and food science?",
+      "options": [
+        "Earth, marine and environmental sciences",
+        "Geography & environmental studies",
+        "Anthropology & development studies",
+        "Archaeology"
+      ],
+      "answer": "Geography & environmental studies"
+    },
+    {
+      "question": "Which subject area had the highest unit costs across all HESA cost centres?",
+      "options": [
+        "Engineering",
+        "Medical and dental sciences",
+        "Social sciences",
+        "Art and design"
+      ],
+      "answer": "Medical and dental sciences"
+    },
+    {
+      "question": "Why was dentistry provision 25% more expensive than medical provision?",
+      "options": [
+        "Dentistry required more specialist equipment and estate",
+        "Fewer students created less economy of scale compared to medicine",
+        "Dentistry had longer course durations",
+        "Professional oversight was stricter"
+      ],
+      "answer": "Fewer students created less economy of scale compared to medicine"
+    },
+    {
+      "question": "How many HESA cost centres were there in Social sciences compared to Medical?",
+      "options": [
+        "12 in Social sciences and 3 in Medical",
+        "3 in Social sciences and 12 in Medical",
+        "6 in both",
+        "10 in Social sciences and 5 in Medical"
+      ],
+      "answer": "12 in Social sciences and 3 in Medical"
+    },
+    {
+      "question": "What proportion of student FTEs came from specialist institutions in Agriculture, forestry and food science?",
+      "options": [
+        "50%",
+        "60%",
+        "80%",
+        "90%"
+      ],
+      "answer": "80%"
+    },
+    {
+      "question": "Which of the following is NOT one of the seven cost categories used to analyse teaching costs?",
+      "options": [
+        "Course delivery staff costs",
+        "Departmental running costs",
+        "Student-facing support services",
+        "Capital investment projects"
+      ],
+      "answer": "Capital investment projects"
+    },
+    {
+      "question": "Which cost category includes Marketing, Admissions, Libraries, IT, and Outreach activities?",
+      "options": [
+        "Corporate services",
+        "Student-facing support services",
+        "Estates costs",
+        "Non-pay costs"
+      ],
+      "answer": "Student-facing support services"
+    },
+    {
+      "question": "Which cost category covers building depreciation, cleaning, and security?",
+      "options": [
+        "Estates costs",
+        "Non-pay costs",
+        "Corporate services",
+        "Sustainability adjustment"
+      ],
+      "answer": "Estates costs"
+    },
+    {
+      "question": "Which two cost categories accounted for the largest proportions of costs across all types of provision?",
+      "options": [
+        "Course delivery staff costs and Estates costs",
+        "Course delivery staff costs and Student related central services",
+        "Corporate services and Sustainability adjustment",
+        "Non-pay costs and Departmental running costs"
+      ],
+      "answer": "Course delivery staff costs and Student related central services"
+    },
+    {
+      "question": "What was the smallest share of cost category in full-time provision?",
+      "options": [
+        "Estates costs",
+        "Corporate services",
+        "Non-pay costs",
+        "Sustainability adjustment"
+      ],
+      "answer": "Non-pay costs"
+    },
+    {
+      "question": "Which cost category showed the most variation across provision types, being as low as 5% for foundation courses?",
+      "options": [
+        "Corporate services",
+        "Estates costs",
+        "Departmental running costs",
+        "Sustainability adjustment"
+      ],
+      "answer": "Departmental running costs"
+    },
+    {
+      "question": "What was the approximate share of Estates costs across all provision types?",
+      "options": [
+        "6% to 8%",
+        "10% to 17%",
+        "11% to 13%",
+        "20% to 25%"
+      ],
+      "answer": "11% to 13%"
+    },
+    {
+      "question": "Which subject group had the lowest proportion of Student related central services costs at 19%?",
+      "options": [
+        "Social sciences",
+        "Engineering",
+        "Medical, dental and veterinary science",
+        "Art and design"
+      ],
+      "answer": "Medical, dental and veterinary science"
+    },
+    {
+      "question": "For Medical, dental and veterinary sciences, what was the share of Course delivery staff costs?",
+      "options": [
+        "19%",
+        "22%",
+        "24%",
+        "28%"
+      ],
+      "answer": "28%"
+    },
+    {
+      "question": "Across subject groups, Course delivery staff costs were generally within what range?",
+      "options": [
+        "15% to 20%",
+        "22% to 24%",
+        "24% to 28%",
+        "30% to 35%"
+      ],
+      "answer": "24% to 28%"
+    },
+    {
+      "question": "Which two categories had similar proportions across subject groups, ranging from 9% to 16% and 10% to 17%?",
+      "options": [
+        "Estates costs and Departmental running costs",
+        "Corporate services and Non-pay costs",
+        "Course delivery staff costs and Sustainability adjustment",
+        "Student related central services and Corporate services"
+      ],
+      "answer": "Estates costs and Departmental running costs"
+    },
+    {
+      "question": "What was the approximate range for Sustainability adjustment costs across subject groups?",
+      "options": [
+        "6% to 8%",
+        "8% to 10%",
+        "10% to 11%",
+        "15% to 20%"
+      ],
+      "answer": "10% to 11%"
+    },
+    {
+      "question": "Why can proportions of cost categories vary across institutions, even within the same subject group?",
+      "options": [
+        "Differences in student tuition fees",
+        "Differences in institutional organisation and cost allocation methods",
+        "Differences in the number of academic staff",
+        "Differences in national funding policies"
+      ],
+      "answer": "Differences in institutional organisation and cost allocation methods"
+    },
+    {
+      "question": "Which TRAC Peer Group had the highest share of Course delivery staff costs (28%)?",
+      "options": [
+        "A and B",
+        "C",
+        "D and E",
+        "F"
+      ],
+      "answer": "D and E"
+    },
+    {
+      "question": "Why do TRAC Peer Groups D and E have a smaller share of departmental running costs (6%)?",
+      "options": [
+        "They employ fewer staff overall",
+        "They conduct less research activity, so more staff time is spent teaching",
+        "They allocate all estate costs centrally",
+        "They have higher entry tariffs compared to other groups"
+      ],
+      "answer": "They conduct less research activity, so more staff time is spent teaching"
+    },
+    {
+      "question": "Which TRAC Peer Group showed higher unit costs and higher departmental running costs, but lower corporate service costs?",
+      "options": [
+        "A and B",
+        "C",
+        "D and E",
+        "F"
+      ],
+      "answer": "F"
+    },
+    {
+      "question": "Why might Peer Groups A and B show a smaller share of corporate services?",
+      "options": [
+        "They outsource most of their administrative services",
+        "They offset some overheads across non-teaching activities such as research",
+        "They classify corporate services as student-related central services",
+        "They have fewer students enrolled"
+      ],
+      "answer": "They offset some overheads across non-teaching activities such as research"
+    },
+    {
+      "question": "What factor was explored but found inconclusive in explaining course delivery costs across TRAC Peer Groups?",
+      "options": [
+        "Entry tariff",
+        "Institution size",
+        "Staff turnover",
+        "Funding source"
+      ],
+      "answer": "Entry tariff"
+    },
+    {
+      "question": "How do larger institutions typically organise departmental spending compared to smaller institutions?",
+      "options": [
+        "Larger institutions control spending centrally, smaller ones decentralise it",
+        "Larger institutions decentralise spending to departments, smaller ones centralise it",
+        "Both treat spending identically regardless of size",
+        "Spending is entirely dependent on government funding"
+      ],
+      "answer": "Larger institutions decentralise spending to departments, smaller ones centralise it"
+    },
+    {
+      "question": "What organisational practice in smaller institutions can affect departmental running costs?",
+      "options": [
+        "Decentralised decision-making on marketing",
+        "Executive scrutiny of all vacancies before recruitment",
+        "Autonomous control over research spending",
+        "Allocation of IT costs to academic departments"
+      ],
+      "answer": "Executive scrutiny of all vacancies before recruitment"
+    },
+    {
+      "question": "What was noted as a caution when interpreting TRAC Peer Group cost categories?",
+      "options": [
+        "Currency fluctuations",
+        "Different methods of cost classification between departments and central services",
+        "Errors in student number reporting",
+        "Differences in government funding policies"
+      ],
+      "answer": "Different methods of cost classification between departments and central services"
+    },
+    {
+      "question": "What advantage may TRAC Peer Groups A and B have compared to others?",
+      "options": [
+        "They have higher entry tariffs for students",
+        "They benefit from economies of scale by sharing non-student facing costs with research",
+        "They receive more government funding",
+        "They spend less on estates and sustainability"
+      ],
+      "answer": "They benefit from economies of scale by sharing non-student facing costs with research"
+    },
+    {
+      "question": "Which TRAC Peer Group is most likely to have more centralised organisation of costs, with higher corporate services and lower departmental running costs?",
+      "options": [
+        "A and B",
+        "C",
+        "D and E",
+        "F"
+      ],
+      "answer": "D and E"
+    },
+    {
+      "question": "What was the method used to assess whether some institutions are consistently less or more costly?",
+      "options": [
+        "Comparing tuition fee levels",
+        "Ranking institutions by weighted average unit cost within each subject group",
+        "Surveying student satisfaction ratings",
+        "Measuring research output"
+      ],
+      "answer": "Ranking institutions by weighted average unit cost within each subject group"
+    },
+    {
+      "question": "Which category (I–IV) included institutions with greater variation in subject group unit costs but slightly less costly overall?",
+      "options": [
+        "Category I",
+        "Category II",
+        "Category III",
+        "Category IV"
+      ],
+      "answer": "Category I"
+    },
+    {
+      "question": "What common characteristic did most institutions in Category I share?",
+      "options": [
+        "They were located in London",
+        "They had staff-to-student ratios (SSR) of 15–30",
+        "They submitted fewer than six subject group unit costs",
+        "They belonged exclusively to TRAC Peer Group C"
+      ],
+      "answer": "They had staff-to-student ratios (SSR) of 15–30"
+    },
+    {
+      "question": "Which category consisted of institutions with greater variation in unit costs and generally higher costs overall, though not the most costly?",
+      "options": [
+        "Category I",
+        "Category II",
+        "Category III",
+        "Category IV"
+      ],
+      "answer": "Category II"
+    },
+    {
+      "question": "What was a common trait of Category II institutions?",
+      "options": [
+        "All were large institutions in London",
+        "All had staff-to-student ratios of fewer than 10",
+        "They were mostly in the South and some belonged to TRAC Peer Group B",
+        "They had zero variation in subject group unit costs"
+      ],
+      "answer": "They were mostly in the South and some belonged to TRAC Peer Group B"
+    },
+    {
+      "question": "Which category represented institutions that were less costly overall with less variation in unit costs?",
+      "options": [
+        "Category I",
+        "Category II",
+        "Category III",
+        "Category IV"
+      ],
+      "answer": "Category III"
+    },
+    {
+      "question": "Which category was the most clearly defined cluster, consisting of institutions with consistently higher costs?",
+      "options": [
+        "Category I",
+        "Category II",
+        "Category III",
+        "Category IV"
+      ],
+      "answer": "Category IV"
+    },
+    {
+      "question": "What types of institutions were commonly found in Category IV?",
+      "options": [
+        "Large, research-intensive institutions outside London",
+        "London-based or specialist institutions",
+        "Small institutions in rural regions",
+        "Institutions with low non-continuation rates"
+      ],
+      "answer": "London-based or specialist institutions"
+    },
+    {
+      "question": "According to the analysis, what factor was associated with lower unit costs?",
+      "options": [
+        "Being a small institution in London",
+        "Having fewer than 3 HESA cost centres",
+        "Being outside London and larger in scale",
+        "Specialising in a limited number of subject groups"
+      ],
+      "answer": "Being outside London and larger in scale"
+    },
+    {
+      "question": "Which of the following was NOT identified as one of the six main factors influencing unit costs?",
+      "options": [
+        "TRAC Peer Group",
+        "Region",
+        "Non-continuation rates",
+        "International student proportion"
+      ],
+      "answer": "International student proportion"
+    },
+    {
+      "question": "Which factor is directly linked to both physical area and TRAC Peer Group?",
+      "options": [
+        "Staff-to-student ratio (SSR)",
+        "Financial scale of institution",
+        "Non-continuation rates",
+        "Number of HESA cost centres"
+      ],
+      "answer": "Financial scale of institution"
+    },
+    {
+      "question": "What did institutions frequently cite as an important but unmeasured influence on costs?",
+      "options": [
+        "Contact teaching time and class size",
+        "International partnerships",
+        "External consultancy spending",
+        "Alumni donations"
+      ],
+      "answer": "Contact teaching time and class size"
+    },
+    {
+      "question": "What was the methodology used to compare factors influencing the weighted average full economic unit cost?",
+      "options": [
+        "Ranking institutions based on tuition fees",
+        "Averaging each institution's rank order of weighted average subject group unit costs",
+        "Surveying institutions’ budget reports",
+        "Comparing total research output"
+      ],
+      "answer": "Averaging each institution's rank order of weighted average subject group unit costs"
+    },
+    {
+      "question": "Which type of institutions tend to have higher unit costs according to the analysis?",
+      "options": [
+        "Large multi-subject institutions",
+        "Institutions with more HESA cost centres",
+        "Specialist institutions with narrower subject ranges",
+        "Institutions outside London"
+      ],
+      "answer": "Specialist institutions with narrower subject ranges"
+    },
+    {
+      "question": "On average, how much higher were London institutions’ unit costs compared to others?",
+      "options": [
+        "5.5% higher",
+        "10.0% higher",
+        "14.1% higher",
+        "20.0% higher"
+      ],
+      "answer": "14.1% higher"
+    },
+    {
+      "question": "How does institutional size (measured by total teaching cost) influence unit cost?",
+      "options": [
+        "Smaller institutions tend to have higher unit costs",
+        "Larger institutions tend to have higher unit costs",
+        "Institution size has no measurable influence",
+        "Only medium-sized institutions are more costly"
+      ],
+      "answer": "Smaller institutions tend to have higher unit costs"
+    },
+    {
+      "question": "What is the relationship between the number of HESA cost centres and unit cost?",
+      "options": [
+        "More HESA cost centres are linked to higher unit costs",
+        "Fewer HESA cost centres are linked to lower unit costs",
+        "More HESA cost centres are linked to lower unit costs",
+        "The number of HESA cost centres has no relationship to cost"
+      ],
+      "answer": "More HESA cost centres are linked to lower unit costs"
+    },
+    {
+      "question": "How does the staff-to-student ratio (SSR) affect unit cost?",
+      "options": [
+        "Higher number of students per staff member leads to higher costs",
+        "Lower number of students per staff member leads to higher costs",
+        "The SSR has no impact on unit costs",
+        "Both higher and lower SSRs reduce costs equally"
+      ],
+      "answer": "Lower number of students per staff member leads to higher costs"
+    },
+    {
+      "question": "Which two factors were identified as strongly associated with higher unit costs?",
+      "options": [
+        "More HESA cost centres and higher SSR",
+        "Being located in London and smaller size",
+        "Larger size and higher non-continuation rates",
+        "Regional diversity and lower staff-to-student ratios"
+      ],
+      "answer": "Being located in London and smaller size"
+    },
+    {
+      "question": "What conclusion did the analysis reach about influences on cost?",
+      "options": [
+        "Unit costs are driven by a single dominant factor",
+        "Unit costs are influenced by a combination of inter-related factors",
+        "Unit costs are entirely random and unrelated to institutional characteristics",
+        "Unit costs are explained only by TRAC Peer Groups"
+      ],
+      "answer": "Unit costs are influenced by a combination of inter-related factors"
+    },
+    {
+      "question": "Which factors were identified as influencing the weighted average full economic unit cost?",
+      "options": [
+        "Region, institution size, staff-to-student ratio, number of HESA cost centres, and TRAC Peer Group",
+        "Only teaching quality and student satisfaction scores",
+        "Primarily legacy assets and estate location",
+        "Exclusively reputation and credentials of the institution"
+      ],
+      "answer": "Region, institution size, staff-to-student ratio, number of HESA cost centres, and TRAC Peer Group"
+    },
+    {
+      "question": "According to the analysis, which institutions tend to have higher unit costs?",
+      "options": [
+        "Large institutions with many HESA cost centres",
+        "Institutions located in London and smaller in size",
+        "Institutions with high student-to-staff ratios",
+        "Institutions with broad provision and diverse subject offerings"
+      ],
+      "answer": "Institutions located in London and smaller in size"
+    },
+    {
+      "question": "What relationship between HESA cost centres and unit costs was observed?",
+      "options": [
+        "More HESA cost centres were linked to higher unit costs",
+        "Fewer HESA cost centres were linked to higher unit costs",
+        "The number of HESA cost centres had no relation to unit costs",
+        "Only science-based HESA cost centres impacted costs"
+      ],
+      "answer": "Fewer HESA cost centres were linked to higher unit costs"
+    },
+    {
+      "question": "Why was it difficult to empirically analyse the influence of non-continuation rates on unit costs?",
+      "options": [
+        "Non-continuation rates were reported only at institution level and data was limited",
+        "All institutions refused to provide continuation data",
+        "The data included postgraduate and international students only",
+        "Non-continuation rates were considered irrelevant to unit costs"
+      ],
+      "answer": "Non-continuation rates were reported only at institution level and data was limited"
+    },
+    {
+      "question": "What area did many institutions cite as having the most impact on controlling costs in the short to medium term?",
+      "options": [
+        "IT investment",
+        "Student accommodation",
+        "Pay and staffing levels",
+        "Marketing and outreach"
+      ],
+      "answer": "Pay and staffing levels"
+    },
+    {
+      "question": "What did the analysis suggest about the relationship between an institution’s estate and unit costs?",
+      "options": [
+        "A larger estate always results in lower unit costs",
+        "Estates were not a key factor in lower unit costs, and smaller estates could still have higher costs",
+        "Managing estates has no connection to unit costs",
+        "Estates always reduce unit costs if technology is adopted"
+      ],
+      "answer": "Estates were not a key factor in lower unit costs, and smaller estates could still have higher costs"
+    },
+    {
+      "question": "What correlation coefficient was found between the number of students and the total teaching cost for an institution?",
+      "options": [
+        "+0.86",
+        "+0.70",
+        "+0.98",
+        "No correlation was found"
+      ],
+      "answer": "+0.98"
+    },
+    {
+      "question": "Which TRAC Peer Group showed a correlation above 0.7 between unit cost and student FTEs at subject group level?",
+      "options": [
+        "Peer Group A and B",
+        "Peer Group C",
+        "Peer Group D and E",
+        "Peer Group F"
+      ],
+      "answer": "Peer Group D and E"
+    },
+    {
+      "question": "How much higher were land and building costs in inner London compared to the national average?",
+      "options": [
+        "About 12% higher",
+        "About 14% higher",
+        "More than three times higher",
+        "About 50% higher"
+      ],
+      "answer": "More than three times higher"
+    },
+    {
+      "question": "What was the weighted average unit cost for London institutions compared to the England average?",
+      "options": [
+        "9,975 vs 10,365 (London 3.8% lower)",
+        "11,824 vs 10,365 (London 14.1% higher)",
+        "9,826 vs 10,365 (London 5.2% lower)",
+        "10,267 vs 10,365 (London 0.9% lower)"
+      ],
+      "answer": "11,824 vs 10,365 (London 14.1% higher)"
+    },
+    {
+      "question": "Which cost category showed the largest difference between London and the England average?",
+      "options": [
+        "Course delivery staff costs",
+        "Departmental running costs",
+        "Estates costs",
+        "Corporate services"
+      ],
+      "answer": "Departmental running costs"
+    },
+    {
+      "question": "What percentage difference was observed in departmental running costs for London institutions compared to the England average?",
+      "options": [
+        "6.3%",
+        "15.4%",
+        "74.1%",
+        "22.7%"
+      ],
+      "answer": "74.1%"
+    },
+    {
+      "question": "What was the average unit cost of a 2-year full-time course in the sample?",
+      "options": [
+        "£10,299",
+        "£10,759",
+        "£11,126",
+        "£9,610"
+      ],
+      "answer": "£11,126"
+    },
+    {
+      "question": "How much higher was the average unit cost of a four-year course compared to a three-year course?",
+      "options": [
+        "2.1% higher",
+        "4.5% higher",
+        "6.7% higher",
+        "10% higher"
+      ],
+      "answer": "4.5% higher"
+    },
+    {
+      "question": "What was the average course size in the sample for three-year courses compared to four-year courses?",
+      "options": [
+        "79 students vs 25 students",
+        "25 students vs 79 students",
+        "50 students vs 100 students",
+        "120 students vs 40 students"
+      ],
+      "answer": "79 students vs 25 students"
+    },
+    {
+      "question": "Which type of courses were excluded from the sample because they disproportionately affected longer courses?",
+      "options": [
+        "Foundation courses",
+        "Part-time courses",
+        "Sandwich courses",
+        "Medical courses"
+      ],
+      "answer": "Sandwich courses"
+    },
+    {
+      "question": "What did institutions cite as a common reason why longer courses could have higher unit costs?",
+      "options": [
+        "Higher administrative costs",
+        "Lower demand",
+        "More teaching staff required",
+        "Greater technology use"
+      ],
+      "answer": "Higher administrative costs"
+    },
+    {
+      "question": "Which factor did most institutions emphasise as equal or more important than cost in teaching quality decisions?",
+      "options": [
+        "Financial viability",
+        "Resources",
+        "Course length",
+        "Quality"
+      ],
+      "answer": "Quality"
+    },
+    {
+      "question": "What did some institutions report about the impact of cost on course modules?",
+      "options": [
+        "Costs tend to decrease with unique modules",
+        "Costs increase steeply with unique modules",
+        "Costs are unaffected by the number of modules",
+        "Modules have no impact on course costs"
+      ],
+      "answer": "Costs increase steeply with unique modules"
+    },
+    {
+      "question": "What proportion of responses most frequently highlighted ‘quality’ as a factor influencing teaching decisions?",
+      "options": [
+        "23",
+        "9",
+        "7",
+        "4"
+      ],
+      "answer": "23"
+    },
+    {
+      "question": "What did some institutions say about replacing senior staff to manage teaching costs?",
+      "options": [
+        "They avoided it completely",
+        "They sometimes replaced senior staff with lower grade staff",
+        "They replaced all staff with part-time staff",
+        "They increased staff numbers instead"
+      ],
+      "answer": "They sometimes replaced senior staff with lower grade staff"
+    },
+    {
+      "question": "What was a common view among institutions about how costs influence teaching quality?",
+      "options": [
+        "Higher costs directly reduce teaching quality",
+        "Costs do not influence quality at all",
+        "Higher costs may contribute to wider discussions about investment in staff and facilities",
+        "Costs only matter in foundation courses"
+      ],
+      "answer": "Higher costs may contribute to wider discussions about investment in staff and facilities"
+    },
+    {
+      "question": "Which factor was most commonly reported to have significantly increased teaching costs since 2016–17?",
+      "options": [
+        "Student and market demands",
+        "Course expansion and quality",
+        "Inflation (above normal rates)",
+        "Increased infrastructure"
+      ],
+      "answer": "Inflation (above normal rates)"
+    },
+    {
+      "question": "What specific components of inflation were most often cited as reasons for cost increases?",
+      "options": [
+        "Library resources and IT",
+        "Pay and pension costs",
+        "International recruitment costs",
+        "Estate maintenance"
+      ],
+      "answer": "Pay and pension costs"
+    },
+    {
+      "question": "How many institutions reported that there had been no significant change in teaching costs beyond normal inflation?",
+      "options": [
+        "7",
+        "12",
+        "15",
+        "27"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "What volatile factor, aside from inflation, was noted as having an impact on teaching costs?",
+      "options": [
+        "Course expansion",
+        "Regulatory changes",
+        "Student and market demands",
+        "Competitor actions"
+      ],
+      "answer": "Student and market demands"
+    },
+    {
+      "question": "What proportion of institutions said that cost had little or no influence on the diversity of provision offered?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "8"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "What did some institutions say they would do if courses became too expensive to run?",
+      "options": [
+        "Reduce student intake",
+        "Close or amend courses",
+        "Increase tuition fees",
+        "Switch to online delivery"
+      ],
+      "answer": "Close or amend courses"
+    },
+    {
+      "question": "What process did some institutions use to decide on launching new programmes?",
+      "options": [
+        "Competitor benchmarking",
+        "New Programme Approval process",
+        "Student survey process",
+        "Annual teaching audit"
+      ],
+      "answer": "New Programme Approval process"
+    },
+    {
+      "question": "Which factors, aside from direct costs, were cited as influencing the diversity of provision?",
+      "options": [
+        "Competitors, strategy, sustainability objectives, and market demand",
+        "Only student satisfaction and NSS results",
+        "Reputation and branding",
+        "International partnerships alone"
+      ],
+      "answer": "Competitors, strategy, sustainability objectives, and market demand"
+    },
+    {
+      "question": "What percentage of institutions overall reported charging students for additional materials?",
+      "options": [
+        "55%",
+        "57%",
+        "67%",
+        "86%"
+      ],
+      "answer": "67%"
+    },
+    {
+      "question": "Which TRAC Peer Group had the highest proportion of institutions charging students for additional materials?",
+      "options": [
+        "A and B",
+        "C",
+        "D and E",
+        "F"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "By approximately what factor was the scale of part-time and foundation provision smaller than full-time provision in this study?",
+      "options": [
+        "10 times smaller",
+        "20 times smaller",
+        "50 times smaller",
+        "80 times smaller"
+      ],
+      "answer": "80 times smaller"
+    },
+    {
+      "question": "What safeguard threshold was applied to published results for part-time and foundation provision to ensure reliability?",
+      "options": [
+        "At least 10 institutions",
+        "At least 50 student FTEs",
+        "At least 100 student FTEs",
+        "At least 200 student FTEs"
+      ],
+      "answer": "At least 100 student FTEs"
+    },
+    {
+      "question": "Which subject group had the highest weighted average unit cost for part-time provision?",
+      "options": [
+        "Art and design and architecture",
+        "Engineering",
+        "Social sciences, history, economics",
+        "Biological sciences and other subjects allied to health"
+      ],
+      "answer": "Art and design and architecture"
+    },
+    {
+      "question": "Which subject group had the lowest weighted average unit cost for part-time provision?",
+      "options": [
+        "English, law and modern languages",
+        "Engineering",
+        "Biological sciences",
+        "Social sciences, history, economics"
+      ],
+      "answer": "Engineering"
+    },
+    {
+      "question": "Which subject group had the highest weighted average unit cost for foundation provision?",
+      "options": [
+        "Engineering",
+        "Maths, physics, chemistry, informatics and computing",
+        "Social sciences, history, economics",
+        "Biological sciences and other subjects allied to health"
+      ],
+      "answer": "Maths, physics, chemistry, informatics and computing"
+    },
+    {
+      "question": "In foundation provision, what was the weighted average unit cost for Engineering?",
+      "options": [
+        "£8,056",
+        "£9,768",
+        "£9,862",
+        "£10,662"
+      ],
+      "answer": "£9,768"
+    },
+    {
+      "question": "According to Table 17, how much higher were full-time unit costs compared to part-time unit costs in Engineering?",
+      "options": [
+        "£771 higher",
+        "£1,327 higher",
+        "£2,238 higher",
+        "£1,626 higher"
+      ],
+      "answer": "£2,238 higher"
+    },
+    {
+      "question": "Which subject group had full-time unit costs LOWER than part-time by £768?",
+      "options": [
+        "Engineering",
+        "English, law and modern languages",
+        "Art and design and architecture",
+        "Social sciences, history, economics"
+      ],
+      "answer": "English, law and modern languages"
+    },
+    {
+      "question": "What did institutions generally report about unit cost differences when part-time and full-time students studied the same modules?",
+      "options": [
+        "Part-time costs were always higher",
+        "There were no significant cost differences",
+        "Full-time costs were always higher",
+        "Foundation provision was more expensive"
+      ],
+      "answer": "There were no significant cost differences"
+    },
+    {
+      "question": "Why should the results for part-time and foundation provision be interpreted with caution?",
+      "options": [
+        "Because the costs were inconsistent across regions",
+        "Because only 1–2 institutions responded",
+        "Because the number of returns and student FTEs was low",
+        "Because the costing model was not applied"
+      ],
+      "answer": "Because the number of returns and student FTEs was low"
+    },
+    {
+      "question": "What academic year was used as the baseline for calculating full economic costs in this study?",
+      "options": [
+        "2014-15",
+        "2015-16",
+        "2016-17",
+        "2017-18"
+      ],
+      "answer": "2016-17"
+    },
+    {
+      "question": "By how much were employer contributions confirmed to increase in the Teachers’ Pension Scheme from September 2019?",
+      "options": [
+        "5%",
+        "6.5%",
+        "7.2%",
+        "8%"
+      ],
+      "answer": "7.2%"
+    },
+    {
+      "question": "What was the indicated inflation rate (Retail Price Index) between August 2017 and December 2018?",
+      "options": [
+        "2.8%",
+        "3.8%",
+        "4.8%",
+        "5.8%"
+      ],
+      "answer": "4.8%"
+    },
+    {
+      "question": "Which of the following was highlighted as a potential impact of Brexit on higher education costs?",
+      "options": [
+        "Reduction in government teaching grants",
+        "Decrease in student accommodation demand",
+        "Reduction in EU and overseas student recruitment",
+        "Higher interest rates on institutional loans"
+      ],
+      "answer": "Reduction in EU and overseas student recruitment"
+    },
+    {
+      "question": "Which provision was highlighted as being in transition in 2016-17 due to changes in funding arrangements?",
+      "options": [
+        "Engineering",
+        "Business studies",
+        "Nursing, Midwifery and Allied Healthcare",
+        "Teacher training"
+      ],
+      "answer": "Nursing, Midwifery and Allied Healthcare"
+    },
+    {
+      "question": "What area of increased spending did institutions report relating to student experience?",
+      "options": [
+        "Expansion of library holdings",
+        "Well-being services and broader student support",
+        "Additional field trips",
+        "More scholarships"
+      ],
+      "answer": "Well-being services and broader student support"
+    },
+    {
+      "question": "What major regulatory body was mentioned as creating future compliance costs for institutions?",
+      "options": [
+        "HESA",
+        "QAA",
+        "OfS",
+        "HEFCE"
+      ],
+      "answer": "OfS"
+    },
+    {
+      "question": "According to the report, how were increases in capital expenditure increasingly being funded?",
+      "options": [
+        "Through government grants",
+        "By borrowing",
+        "Through student tuition fees",
+        "By alumni donations"
+      ],
+      "answer": "By borrowing"
+    },
+    {
+      "question": "Which three major factors were noted as the main sources of cost pressure for institutions looking forward?",
+      "options": [
+        "Technology upgrades, inflation, competition",
+        "Pensions, Brexit, changes to tuition fees",
+        "Staff turnover, research, regulation",
+        "Infrastructure, wellbeing, fieldwork"
+      ],
+      "answer": "Pensions, Brexit, changes to tuition fees"
+    },
+    {
+      "question": "What did institutions report about their ability to mitigate rising pension costs?",
+      "options": [
+        "They could offset them through student fees",
+        "They could reduce staff numbers",
+        "They had limited ability to mitigate",
+        "They expected government subsidies"
+      ],
+      "answer": "They had limited ability to mitigate"
+    },
+    {
+      "question": "Which body established the Steering Group for overseeing the study?",
+      "options": [
+        "Office for Students",
+        "KPMG",
+        "Department for Education (DfE)",
+        "HEFCE"
+      ],
+      "answer": "Department for Education (DfE)"
+    },
+    {
+      "question": "Which of the following was NOT represented in the Steering Group?",
+      "options": [
+        "Higher Education Analysis, DfE",
+        "Post-18 Review Team",
+        "Office for Students",
+        "National Audit Office"
+      ],
+      "answer": "National Audit Office"
+    },
+    {
+      "question": "What was the main role of the Technical Group?",
+      "options": [
+        "To approve the final report",
+        "To provide technical support and experience",
+        "To review project delivery timeline",
+        "To advise on policy reforms"
+      ],
+      "answer": "To provide technical support and experience"
+    },
+    {
+      "question": "Which university was a member of the Technical Group?",
+      "options": [
+        "University of Oxford",
+        "University of Salford",
+        "Imperial College London",
+        "London School of Economics"
+      ],
+      "answer": "University of Salford"
+    },
+    {
+      "question": "In TRAC peer groups, which group includes institutions with a medical school and research income of 20% or more?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Which TRAC peer group consists of specialist music/arts teaching institutions?",
+      "options": [
+        "E",
+        "F",
+        "C",
+        "B"
+      ],
+      "answer": "F"
+    },
+    {
+      "question": "Which TRAC peer groups were combined in this study to avoid identification of institutions with fewer than five responses?",
+      "options": [
+        "A and C, D and F",
+        "A and B, D and E",
+        "B and C, E and F",
+        "A and F, C and D"
+      ],
+      "answer": "A and B, D and E"
+    },
+    {
+      "question": "How many subject groups were created for the study from 45 HESA cost centres?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "12"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "Which subject group includes Architecture, Art and Design, and Performing Arts?",
+      "options": [
+        "Engineering",
+        "Art and design and architecture",
+        "Social sciences, history, economics",
+        "Geology and environmental sciences"
+      ],
+      "answer": "Art and design and architecture"
+    },
+    {
+      "question": "Which subject group includes Law, Modern Languages, and English literature?",
+      "options": [
+        "English, law and modern languages",
+        "Social sciences, history, economics",
+        "Humanities",
+        "Business and management"
+      ],
+      "answer": "English, law and modern languages"
+    },
+    {
+      "question": "Which subject group does 'Nursing and allied health professions' belong to?",
+      "options": [
+        "Medical, dental and veterinary science",
+        "Biological sciences and other subjects allied to health",
+        "Social sciences",
+        "Education"
+      ],
+      "answer": "Biological sciences and other subjects allied to health"
+    },
+    {
+      "question": "Which Welsh ASC category corresponds directly to the study’s Engineering subject group?",
+      "options": [
+        "Engineering and Technology",
+        "Mathematical Sciences",
+        "Science",
+        "Built Environment"
+      ],
+      "answer": "Engineering and Technology"
+    },
+    {
+      "question": "Which subject group had the least commonality between the Welsh ASC and English grouping?",
+      "options": [
+        "Engineering",
+        "Art and design",
+        "Medical sciences",
+        "Social sciences, history, economics"
+      ],
+      "answer": "Social sciences, history, economics"
+    },
+    {
+      "question": "What was the largest unit cost difference observed in the Welsh vs English subject grouping comparison?",
+      "options": [
+        "£459",
+        "£819",
+        "£1,315",
+        "£1,503"
+      ],
+      "answer": "£1,503"
+    },
+    {
+      "question": "How many HESA cost centres did the Social sciences, history and economics subject group contain?",
+      "options": [
+        "7",
+        "9",
+        "12",
+        "15"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "In Annex E, why was one institution’s data submission removed from the study?",
+      "options": [
+        "Because staff to student ratios were too high",
+        "Because its methodology deviated significantly and out-of-scope costs could not be verified",
+        "Because it had fewer than five courses",
+        "Because costs were higher than average"
+      ],
+      "answer": "Because its methodology deviated significantly and out-of-scope costs could not be verified"
+    },
+    {
+      "question": "What was the impact of the institution that reported student FTE as staff FTE at course level?",
+      "options": [
+        "Staff to student ratio always 1:1",
+        "All costs were excluded from analysis",
+        "Teaching costs doubled",
+        "No measurable effect"
+      ],
+      "answer": "Staff to student ratio always 1:1"
+    },
+    {
+      "question": "Which summary region includes East Midlands and West Midlands?",
+      "options": [
+        "London",
+        "Midlands",
+        "North",
+        "South West and East"
+      ],
+      "answer": "Midlands"
+    },
+    {
+      "question": "Which regions fall under the 'North' summary region?",
+      "options": [
+        "North East, North West, Yorkshire and the Humber",
+        "North East, South East, North West",
+        "Yorkshire, East of England, North East",
+        "North East and Midlands"
+      ],
+      "answer": "North East, North West, Yorkshire and the Humber"
+    },
+    {
+      "question": "Which of the following was a contextual question asked at the institution level?",
+      "options": [
+        "How many international collaborations does the university have?",
+        "What issues or factors have changed teaching costs significantly since 2016-17?",
+        "What proportion of courses are online?",
+        "What is the institution’s student satisfaction rate?"
+      ],
+      "answer": "What issues or factors have changed teaching costs significantly since 2016-17?"
+    },
+    {
+      "question": "Contextual questions asked institutions if they charged students for what?",
+      "options": [
+        "Extra accommodation",
+        "Transport to campus",
+        "Additional materials or resources",
+        "Library membership"
+      ],
+      "answer": "Additional materials or resources"
+    },
+    {
+      "question": "How many main cost categories were collected in Annex H?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "6"
+    },
+    {
+      "question": "Which cost category included 'Course delivery' and 'Placement management pay'?",
+      "options": [
+        "Category A – Course delivery staff costs",
+        "Category B – Non-pay costs",
+        "Category C – Indirect departmental costs",
+        "Category D – Centrally allocated indirect costs"
+      ],
+      "answer": "Category A – Course delivery staff costs"
+    },
+    {
+      "question": "Which cost category included 'Libraries and museums'?",
+      "options": [
+        "Category A",
+        "Category B",
+        "Category C",
+        "Category D"
+      ],
+      "answer": "Category D"
+    },
+    {
+      "question": "Which cost category included 'Maintaining estate and teaching campuses'?",
+      "options": [
+        "Category C – Indirect departmental costs",
+        "Category E – Estates costs",
+        "Category D – Centrally allocated indirect costs",
+        "Category F – Sustainability adjustment"
+      ],
+      "answer": "Category E – Estates costs"
+    },
+    {
+      "question": "What does the Sustainability Adjustment (Category F) represent?",
+      "options": [
+        "Routine maintenance costs",
+        "Forward-looking measure of cash generation required for sustainability",
+        "Staff pension contributions",
+        "One-off building costs"
+      ],
+      "answer": "Forward-looking measure of cash generation required for sustainability"
+    },
+    {
+      "question": "Which cost driver was based on time spent by academic staff in teaching, preparation, and assessment?",
+      "options": [
+        "Course delivery information",
+        "Staff FTE",
+        "Student FTE",
+        "Direct non-pay"
+      ],
+      "answer": "Course delivery information"
+    },
+    {
+      "question": "Which cost driver was used for 'Financial support to students'?",
+      "options": [
+        "Student headcount",
+        "Student FTE",
+        "Direct allocation",
+        "Staff FTE"
+      ],
+      "answer": "Student headcount"
+    },
+    {
+      "question": "Which cost driver involved estimating estates costs consumed using area, cost, and usage?",
+      "options": [
+        "Staff FTE",
+        "Course delivery",
+        "Direct allocation / Estates utilisation",
+        "Student headcount"
+      ],
+      "answer": "Direct allocation / Estates utilisation"
+    },
+    {
+      "question": "Which cost driver applied specifically to placement-related management costs?",
+      "options": [
+        "Staff FTE",
+        "Pay placement information",
+        "Non-pay placement information",
+        "Course delivery"
+      ],
+      "answer": "Pay placement information"
+    },
+    {
+      "question": "Which subject group had the highest full-time weighted average unit cost?",
+      "options": [
+        "Engineering",
+        "Medical, dental and veterinary science",
+        "Art and design and architecture",
+        "Biological sciences"
+      ],
+      "answer": "Medical, dental and veterinary science"
+    },
+    {
+      "question": "What was the full-time unit cost for Social sciences, history, economics?",
+      "options": [
+        "£8,855",
+        "£10,200",
+        "£11,096",
+        "£9,724"
+      ],
+      "answer": "£8,855"
+    },
+    {
+      "question": "In full-time provision, which subject group had the highest proportion of 'Course delivery staff costs'?",
+      "options": [
+        "English, law and modern languages",
+        "Medical, dental and veterinary science",
+        "Engineering",
+        "Art and design and architecture"
+      ],
+      "answer": "Medical, dental and veterinary science"
+    },
+    {
+      "question": "Which subject group had the lowest full-time unit cost total (£8,801)?",
+      "options": [
+        "Social sciences, history, economics",
+        "English, law and modern languages",
+        "Maths, physics, chemistry, informatics and computing",
+        "Biological sciences"
+      ],
+      "answer": "English, law and modern languages"
+    },
+    {
+      "question": "In Annex I, what was the sustainability adjustment (£) for Engineering?",
+      "options": [
+        "£1,021",
+        "£1,156",
+        "£1,202",
+        "£1,135"
+      ],
+      "answer": "£1,156"
+    },
+    {
+      "question": "Which subject group had the greatest max-min HESA cost centre difference (£4,697)?",
+      "options": [
+        "Medical, dental and veterinary science",
+        "Biological sciences",
+        "Geology, environmental sciences, archaeology and ancient history",
+        "Engineering"
+      ],
+      "answer": "Geology, environmental sciences, archaeology and ancient history"
+    },
+    {
+      "question": "What was the max HESA cost centre unit cost for Medical, dental and veterinary science?",
+      "options": [
+        "£17,991",
+        "£20,711",
+        "£13,949",
+        "£12,257"
+      ],
+      "answer": "£20,711"
+    },
+    {
+      "question": "What was the weighted average full-time unit cost for Maths, physics, chemistry, informatics and computing?",
+      "options": [
+        "£10,776",
+        "£10,500",
+        "£11,394",
+        "£10,200"
+      ],
+      "answer": "£10,500"
+    },
+    {
+      "question": "According to Annex J, how did the overall weighted average unit cost compare between full-time and part-time provision?",
+      "options": [
+        "Part-time was higher by £2,000",
+        "Full-time and part-time were almost identical",
+        "Full-time was much higher by £10,000",
+        "Part-time was half the cost of full-time"
+      ],
+      "answer": "Full-time and part-time were almost identical"
+    },
+    {
+      "question": "What was the overall weighted average unit cost for full-time provision?",
+      "options": [
+        "£10,299",
+        "£10,155",
+        "£11,096",
+        "£9,724"
+      ],
+      "answer": "£10,299"
+    },
+    {
+      "question": "What was the overall weighted average unit cost for part-time provision?",
+      "options": [
+        "£10,299",
+        "£10,155",
+        "£9,960",
+        "£10,182"
+      ],
+      "answer": "£10,155"
+    },
+    {
+      "question": "Why are part-time cost results considered less reliable?",
+      "options": [
+        "They used outdated inflation data",
+        "They were adjusted for overseas students",
+        "They had far fewer institutional returns and student FTEs",
+        "They excluded staff costs"
+      ],
+      "answer": "They had far fewer institutional returns and student FTEs"
+    },
+    {
+      "question": "What additional safeguard was applied to part-time data results before publishing?",
+      "options": [
+        "A 10% adjustment for inflation",
+        "Exclusion of costs under £5,000",
+        "A threshold of 100 student FTEs",
+        "Limiting data to 3 subject groups"
+      ],
+      "answer": "A threshold of 100 student FTEs"
+    },
+    {
+      "question": "By what factor was part-time provision smaller than full-time provision (by cost and FTEs)?",
+      "options": [
+        "10",
+        "40",
+        "80",
+        "100"
+      ],
+      "answer": "80"
+    },
+    {
+      "question": "What did Annex J caution about interpreting part-time results?",
+      "options": [
+        "They should be considered more reliable than full-time",
+        "They should be interpreted with caution due to limited data",
+        "They were only for postgraduate students",
+        "They excluded non-pay costs"
+      ],
+      "answer": "They should be interpreted with caution due to limited data"
+    },
+    {
+      "question": "How many institutions with postgraduate provision were included in Annex N’s comparative analysis?",
+      "options": [
+        "24",
+        "39",
+        "47",
+        "31"
+      ],
+      "answer": "39"
+    },
+    {
+      "question": "Which factor was NOT cited as a reason for variation in postgraduate out-of-scope costs?",
+      "options": [
+        "Small postgraduate student numbers",
+        "Inclusion of CPD students",
+        "High costs in London institutions",
+        "Government-imposed fee caps"
+      ],
+      "answer": "Government-imposed fee caps"
+    },
+    {
+      "question": "Of the 39 institutions, how many had postgraduate out-of-scope unit costs LOWER than in-scope costs?",
+      "options": [
+        "10",
+        "15",
+        "18",
+        "24"
+      ],
+      "answer": "15"
+    },
+    {
+      "question": "On average, institutions with LOWER postgraduate costs reported them at what difference compared to in-scope provision?",
+      "options": [
+        "5% lower",
+        "10% lower",
+        "15% lower",
+        "20% lower"
+      ],
+      "answer": "10% lower"
+    },
+    {
+      "question": "Which factor was cited to explain HIGHER postgraduate costs compared to undergraduate?",
+      "options": [
+        "Shorter academic year",
+        "Larger student numbers",
+        "Higher fixed overhead share",
+        "Lower staff intensity"
+      ],
+      "answer": "Higher fixed overhead share"
+    },
+    {
+      "question": "Which subject group had the highest full-time weighted average unit cost in Annex O?",
+      "options": [
+        "Biological sciences",
+        "Engineering",
+        "Medical, dental and veterinary science",
+        "Art and design and architecture"
+      ],
+      "answer": "Medical, dental and veterinary science"
+    },
+    {
+      "question": "What was the weighted average unit cost for Social sciences, history, economics in full-time provision?",
+      "options": [
+        "£8,801",
+        "£8,953",
+        "£8,855",
+        "£9,241"
+      ],
+      "answer": "£8,855"
+    },
+    {
+      "question": "Which foundation subject group reported the lowest weighted average unit cost?",
+      "options": [
+        "Engineering",
+        "Biological sciences",
+        "Social sciences, history, economics",
+        "Maths, physics, chemistry, informatics and computing"
+      ],
+      "answer": "Social sciences, history, economics"
+    },
+    {
+      "question": "How many institutions contributed to the full-time Art and design and architecture cost data in Annex O?",
+      "options": [
+        "26",
+        "30",
+        "31",
+        "37"
+      ],
+      "answer": "37"
+    },
+    {
+      "question": "What was the total full-time weighted average unit cost across all subject groups?",
+      "options": [
+        "£9,412",
+        "£10,145",
+        "£10,372",
+        "£17,991"
+      ],
+      "answer": "£10,372"
+    },
+    {
+      "question": "In Annex P, which factor explains why one institution had an unusually high non-pay cost?",
+      "options": [
+        "They excluded estates costs",
+        "They had a contract with another provider",
+        "They over-reported student FTEs",
+        "They shifted staff costs into sustainability"
+      ],
+      "answer": "They had a contract with another provider"
+    },
+    {
+      "question": "What was the key challenge when comparing cost categories across institutions in Annex P?",
+      "options": [
+        "Inflation adjustment",
+        "Different fee structures",
+        "Variation in classification of costs",
+        "Data confidentiality"
+      ],
+      "answer": "Variation in classification of costs"
+    },
+    {
+      "question": "What does the MSI (Margin for Sustainability and Investment) represent in Annex P?",
+      "options": [
+        "Staff salaries",
+        "Capital expenditure",
+        "A sustainability adjustment",
+        "Depreciation"
+      ],
+      "answer": "A sustainability adjustment"
+    },
+    {
+      "question": "Which cost category is consistently labeled with colour key 'A' in Annex P?",
+      "options": [
+        "Estates costs",
+        "Non-pay costs",
+        "Course delivery staff costs",
+        "Corporate services"
+      ],
+      "answer": "Course delivery staff costs"
+    },
+    {
+      "question": "What was the guidance for interpreting the charts in Annex P?",
+      "options": [
+        "Review relative and absolute charts together",
+        "Ignore MSI adjustments",
+        "Use only the median values",
+        "Only compare institutions in the same TRAC group"
+      ],
+      "answer": "Review relative and absolute charts together"
+    },
+    {
+      "question": "In Annex Q, why was caution advised in interpreting part-time subject group data?",
+      "options": [
+        "Too many missing submissions",
+        "Too few student FTEs and low institutional submissions",
+        "Inflation adjustments not included",
+        "Errors in TRAC reporting"
+      ],
+      "answer": "Too few student FTEs and low institutional submissions"
+    },
+    {
+      "question": "Which cost category is labeled 'F' in the colour key for Annex Q?",
+      "options": [
+        "Corporate services",
+        "Departmental running costs",
+        "Estates costs",
+        "Sustainability adjustment"
+      ],
+      "answer": "Estates costs"
+    },
+    {
+      "question": "Why did some institutions include all non-pay costs under departmental running costs in Annex Q?",
+      "options": [
+        "Difficulty allocating them accurately",
+        "Government mandate",
+        "Misclassification by auditors",
+        "To lower sustainability adjustments"
+      ],
+      "answer": "Difficulty allocating them accurately"
+    },
+    {
+      "question": "What external factor influenced how institutions classified costs in Annex Q?",
+      "options": [
+        "Their organisational and financial structure",
+        "Exchange rate fluctuations",
+        "Student tuition levels",
+        "Inflation rate differences"
+      ],
+      "answer": "Their organisational and financial structure"
+    },
+    {
+      "question": "Which Annex explicitly warns that relative and absolute unit cost charts must be interpreted together?",
+      "options": [
+        "Annex N",
+        "Annex O",
+        "Annex P",
+        "Annex Q"
+      ],
+      "answer": "Annex Q"
+    },
+    {
+      "question": "What did Annex R caution about when interpreting foundation subject group cost charts?",
+      "options": [
+        "They are only based on postgraduate provision",
+        "They had low submissions and student FTE numbers",
+        "They excluded sustainability adjustments",
+        "They only covered engineering subjects"
+      ],
+      "answer": "They had low submissions and student FTE numbers"
+    },
+    {
+      "question": "Which cost category is coded as 'C' in Annex R’s colour key?",
+      "options": [
+        "Estates costs",
+        "Corporate services",
+        "Departmental running costs",
+        "Non-pay costs"
+      ],
+      "answer": "Departmental running costs"
+    },
+    {
+      "question": "Why did some institutions include all non-pay costs as departmental running costs in Annex R?",
+      "options": [
+        "Government regulation",
+        "Time pressures in completing the data return",
+        "Misreporting of staff salaries",
+        "A change in TRAC rules"
+      ],
+      "answer": "Time pressures in completing the data return"
+    },
+    {
+      "question": "What adjustment is consistently included across all institutions in Annex R?",
+      "options": [
+        "Depreciation allowance",
+        "Sustainability adjustment (MSI)",
+        "Inflation adjustment",
+        "Staff pension contributions"
+      ],
+      "answer": "Sustainability adjustment (MSI)"
+    },
+    {
+      "question": "Which TRAC Peer Groups showed the highest variation in Annex S?",
+      "options": [
+        "C",
+        "D and E",
+        "F",
+        "A and B"
+      ],
+      "answer": "A and B"
+    },
+    {
+      "question": "Which cost category typically had the largest share across Peer Group F in Annex S?",
+      "options": [
+        "Estates costs",
+        "Course delivery staff costs",
+        "Departmental running costs",
+        "Corporate services"
+      ],
+      "answer": "Course delivery staff costs"
+    },
+    {
+      "question": "What does Annex S compare across TRAC Peer Groups?",
+      "options": [
+        "Average tuition fee levels",
+        "Unit costs by cost category and proportions",
+        "Staff workload surveys",
+        "Student satisfaction scores"
+      ],
+      "answer": "Unit costs by cost category and proportions"
+    },
+    {
+      "question": "Which peer group had the lowest overall absolute unit costs in Annex S?",
+      "options": [
+        "A and B",
+        "C",
+        "D and E",
+        "F"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "How many courses were analysed in Annex T?",
+      "options": [
+        "Over 4,000",
+        "Over 6,500",
+        "Over 9,000",
+        "Over 12,000"
+      ],
+      "answer": "Over 9,000"
+    },
+    {
+      "question": "What correlation was observed between student FTEs and total course costs in Annex T?",
+      "options": [
+        "0.50",
+        "0.70",
+        "0.93",
+        "1.00"
+      ],
+      "answer": "0.93"
+    },
+    {
+      "question": "What was the mean student FTE per course according to Table 37 in Annex T?",
+      "options": [
+        "12",
+        "46",
+        "120",
+        "94"
+      ],
+      "answer": "46"
+    },
+    {
+      "question": "Why was one institution’s submission excluded in Annex T?",
+      "options": [
+        "It included postgraduate-only data",
+        "It had multiple deviations from the methodology",
+        "It failed to report sustainability costs",
+        "It did not meet minimum FTE thresholds"
+      ],
+      "answer": "It had multiple deviations from the methodology"
+    },
+    {
+      "question": "What was the total discrete cost of teaching overseas domiciled students collected in Annex U?",
+      "options": [
+        "£114 million",
+        "£214 million",
+        "£314 million",
+        "£414 million"
+      ],
+      "answer": "£314 million"
+    },
+    {
+      "question": "How many institutions submitted data for discrete overseas teaching costs in Annex U?",
+      "options": [
+        "25",
+        "30",
+        "35",
+        "40"
+      ],
+      "answer": "35"
+    },
+    {
+      "question": "What was the median percentage of overseas costs relative to TRAC teaching costs in Annex U?",
+      "options": [
+        "Between 0% and 1%",
+        "Between 1% and 2%",
+        "Between 3% and 4%",
+        "Between 5% and 6%"
+      ],
+      "answer": "Between 1% and 2%"
+    },
+    {
+      "question": "Which type of provision explained unusually high overseas costs in one institution in Annex U?",
+      "options": [
+        "Joint venture pathway centre for international students",
+        "Specialised veterinary courses",
+        "Domestic CPD programmes",
+        "Short foundation diplomas"
+      ],
+      "answer": "Joint venture pathway centre for international students"
+    },
+    {
+      "question": "How many total HESA cost centre codes were represented in Annex V?",
+      "options": [
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "answer": "45"
+    },
+    {
+      "question": "What was the overall institution response rate across all HESA cost centres in Annex V?",
+      "options": [
+        "21%",
+        "26%",
+        "31%",
+        "38%"
+      ],
+      "answer": "31%"
+    },
+    {
+      "question": "Which HESA cost centre had the highest number of institutional responses matched in Annex V?",
+      "options": [
+        "Clinical medicine",
+        "Business and management studies",
+        "Psychology and behavioural sciences",
+        "English language and literature"
+      ],
+      "answer": "Business and management studies"
+    },
+    {
+      "question": "What was the student FTE coverage for Mechanical, aero and production engineering in Annex V?",
+      "options": [
+        "32%",
+        "44%",
+        "46%",
+        "52%"
+      ],
+      "answer": "46%"
+    },
+    {
+      "question": "How many institutions participated in Annex W (TRAC peer group coverage)?",
+      "options": [
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "answer": "40"
+    },
+    {
+      "question": "Which TRAC peer group had the highest percentage coverage of student FTEs in Annex W?",
+      "options": [
+        "A and B",
+        "C",
+        "D and E",
+        "F"
+      ],
+      "answer": "F"
+    },
+    {
+      "question": "What percentage of TRAC Peer Group C’s student FTEs were covered?",
+      "options": [
+        "30%",
+        "38%",
+        "48%",
+        "57%"
+      ],
+      "answer": "48%"
+    },
+    {
+      "question": "Which TRAC peer group contributed the fewest student FTEs overall in Annex W?",
+      "options": [
+        "A and B",
+        "C",
+        "D and E",
+        "F"
+      ],
+      "answer": "F"
+    },
+    {
+      "question": "In Annex X, what was the first step in the ranking methodology?",
+      "options": [
+        "Weighting the rankings by submissions",
+        "Ranking institutions in order of increasing unit cost",
+        "Averaging across subject groups",
+        "Calculating TRAC peer group averages"
+      ],
+      "answer": "Ranking institutions in order of increasing unit cost"
+    },
+    {
+      "question": "How were missing subject group values treated in Annex X?",
+      "options": [
+        "Counted as zero",
+        "Given the highest rank",
+        "Ignored in the averaging",
+        "Replaced with peer group mean"
+      ],
+      "answer": "Ignored in the averaging"
+    },
+    {
+      "question": "What was Step 2 of the Annex X ranking method?",
+      "options": [
+        "Weighting rankings by number of submissions",
+        "Adjusting for sustainability costs",
+        "Grouping by TRAC categories",
+        "Excluding low-FTE courses"
+      ],
+      "answer": "Weighting rankings by number of submissions"
+    },
+    {
+      "question": "Which subject group had TRAC Peer Group F with the highest ranking (most costly) in Annex Y?",
+      "options": [
+        "Art and design and architecture",
+        "Engineering",
+        "English, law and modern languages",
+        "Maths, physics, chemistry, informatics and computing"
+      ],
+      "answer": "Art and design and architecture"
+    },
+    {
+      "question": "What general pattern emerged for London institutions in Annex Y?",
+      "options": [
+        "They had the lowest unit costs in all groups",
+        "They had higher unit costs in 5 of 8 subject groups",
+        "They showed no significant differences",
+        "They only ranked lower in medical sciences"
+      ],
+      "answer": "They had higher unit costs in 5 of 8 subject groups"
+    },
+    {
+      "question": "According to Annex Y, which region almost always had lower unit costs?",
+      "options": [
+        "Midlands",
+        "South West",
+        "London",
+        "North"
+      ],
+      "answer": "North"
+    },
+    {
+      "question": "What was the key conclusion about staff-to-student ratio (SSR) in Annex Y?",
+      "options": [
+        "Higher SSR correlated with higher unit cost",
+        "Higher SSR correlated with lower unit cost",
+        "SSR had no effect on unit cost",
+        "SSR was excluded from the analysis"
+      ],
+      "answer": "Higher SSR correlated with lower unit cost"
+    },
+    {
+      "question": "How many institutions submitted capital expenditure data in Annex Z?",
+      "options": [
+        "25",
+        "30",
+        "35",
+        "40"
+      ],
+      "answer": "35"
+    },
+    {
+      "question": "What was capital expenditure reported as in Annex Z?",
+      "options": [
+        "Absolute £ totals",
+        "Percentage of total teaching TRAC costs",
+        "Unit cost per student",
+        "Indexed scores by subject"
+      ],
+      "answer": "Percentage of total teaching TRAC costs"
+    },
+    {
+      "question": "What did all TRAC peer groups plan between 2016–17 and 2019–20 in Annex Z?",
+      "options": [
+        "To reduce capital expenditure",
+        "To spend at a higher level as a proportion of teaching cost",
+        "To eliminate borrowing",
+        "To increase staff recruitment"
+      ],
+      "answer": "To spend at a higher level as a proportion of teaching cost"
+    },
+    {
+      "question": "According to Annex AA, the vast majority of full-time courses were of what length?",
+      "options": [
+        "One to two years",
+        "Three or four years",
+        "Five to six years",
+        "Seven or more years"
+      ],
+      "answer": "Three or four years"
+    },
+    {
+      "question": "What was one example given of a course shorter than three years in Annex AA?",
+      "options": [
+        "Diploma courses in computing",
+        "Undergraduate courses ending or starting in 2016–17",
+        "Medical clinical placements",
+        "Distance learning modules"
+      ],
+      "answer": "Undergraduate courses ending or starting in 2016–17"
+    },
+    {
+      "question": "Which subject group had the lowest staff-to-student ratio (SSR) in Annex BB?",
+      "options": [
+        "Engineering",
+        "Medical, dental and veterinary science",
+        "Art and design and architecture",
+        "Social sciences, history, economics"
+      ],
+      "answer": "Medical, dental and veterinary science"
+    },
+    {
+      "question": "What was the average SSR across all subject groups in Annex BB?",
+      "options": [
+        "18.5",
+        "19.7",
+        "21.7",
+        "23.5"
+      ],
+      "answer": "21.7"
+    },
+    {
+      "question": "Which subject group had the highest SSR in Annex BB?",
+      "options": [
+        "Art and design and architecture",
+        "English, law and modern languages",
+        "Biological sciences",
+        "Social sciences, history, economics"
+      ],
+      "answer": "Social sciences, history, economics"
+    },
+    {
+      "question": "What was the total central cost reported in Annex CC?",
+      "options": [
+        "£1.1 billion",
+        "£1.3 billion",
+        "£1.59 billion",
+        "£2.1 billion"
+      ],
+      "answer": "£1.59 billion"
+    },
+    {
+      "question": "Which single cost item was the largest under student-related central services in Annex CC?",
+      "options": [
+        "Student facilities",
+        "Corporate IT services",
+        "Financial support to students",
+        "Libraries and museums"
+      ],
+      "answer": "Student facilities"
+    },
+    {
+      "question": "How were marketing and admissions costs classified in Annex CC?",
+      "options": [
+        "Corporate services",
+        "Student related central services",
+        "Miscellaneous central costs",
+        "Institution-specific items"
+      ],
+      "answer": "Student related central services"
+    },
+    {
+      "question": "What percentage of total teaching costs did central services represent in Annex CC?",
+      "options": [
+        "20.1%",
+        "25.3%",
+        "30.4%",
+        "35.7%"
+      ],
+      "answer": "35.7%"
+    },
+    {
+      "question": "In Annex CC, which TRAC peer group appeared to benefit most from economies of scale in corporate services?",
+      "options": [
+        "A and B",
+        "C",
+        "D and E",
+        "F"
+      ],
+      "answer": "A and B"
+    },
+    {
+      "question": "What was the mean non-continuation rate among study institutions in Annex DD?",
+      "options": [
+        "8.2%",
+        "9.2%",
+        "9.9%",
+        "10.5%"
+      ],
+      "answer": "9.2%"
+    },
+    {
+      "question": "What was the maximum non-continuation rate observed in Annex DD?",
+      "options": [
+        "15.2%",
+        "19.6%",
+        "21.6%",
+        "26.0%"
+      ],
+      "answer": "21.6%"
+    },
+    {
+      "question": "How did the mean non-continuation rate of the study sample compare with the overall population in Annex DD?",
+      "options": [
+        "Higher",
+        "Slightly lower",
+        "Identical",
+        "Significantly lower"
+      ],
+      "answer": "Slightly lower"
+    },
+    {
+      "question": "What was the source of non-continuation data used in Annex DD?",
+      "options": [
+        "Institutional surveys",
+        "Office for Students performance indicators",
+        "HESA student record",
+        "National Student Survey"
+      ],
+      "answer": "HESA student record"
+    }
+  ]
+}

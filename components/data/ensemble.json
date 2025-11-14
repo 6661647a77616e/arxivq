@@ -1,0 +1,195 @@
+{
+  "questions": [
+    {
+      "question": "What is the main objective of Student Dropout Prediction (SDP) in Educational Data Mining (EDM)?",
+      "options": [
+        "To predict exam scores for students",
+        "To help institutions intervene early to improve student retention",
+        "To measure teacher performance",
+        "To evaluate curriculum quality"
+      ],
+      "answer": "To help institutions intervene early to improve student retention"
+    },
+    {
+      "question": "Which ensemble learning techniques are explored in this study to improve predictive performance and fairness?",
+      "options": [
+        "Regression and clustering",
+        "Bagging, boosting, stacking, and voting",
+        "Neural networks and reinforcement learning",
+        "Decision trees and k-means"
+      ],
+      "answer": "Bagging, boosting, stacking, and voting"
+    },
+    {
+      "question": "Which dataset is used in the study for evaluating dropout prediction models?",
+      "options": [
+        "A synthetic dataset generated for experiments",
+        "University-level data from Europe",
+        "The K-12 system dataset of Morocco",
+        "MOOCs (Massive Open Online Courses) data"
+      ],
+      "answer": "The K-12 system dataset of Morocco"
+    },
+    {
+      "question": "What are the protected attributes considered for fairness evaluation in this study?",
+      "options": [
+        "Age, gender, and ethnicity",
+        "Gender, handicap, financial aid, and boarding school availability",
+        "Income, test scores, and parental education",
+        "Region, grade level, and subject preference"
+      ],
+      "answer": "Gender, handicap, financial aid, and boarding school availability"
+    },
+    {
+      "question": "Why is fairness in dropout prediction models considered an ethical imperative?",
+      "options": [
+        "Because fairness improves computational efficiency",
+        "Because fairness ensures accurate test scores",
+        "Because biased models risk reinforcing systemic inequalities for marginalized students",
+        "Because fairness reduces the cost of data collection"
+      ],
+      "answer": "Because biased models risk reinforcing systemic inequalities for marginalized students"
+    },
+    {
+      "question": "Which fairness metric computes the absolute difference between the AUCs of each group for a protected attribute?",
+      "options": [
+        "Demographic Parity (DP)",
+        "Absolute Between-ROC Area (ABROCA)",
+        "Equality of Opportunity",
+        "True Negative Rate (TNR)"
+      ],
+      "answer": "Absolute Between-ROC Area (ABROCA)"
+    },
+    {
+      "question": "Which protected features were considered in the fairness analysis of the Moroccan dataset?",
+      "options": [
+        "Age, race, and parental education",
+        "Gender, handicaps, boarding school availability, and financial aid",
+        "Exam scores, region, and subject preferences",
+        "Teacher evaluations, income, and ethnicity"
+      ],
+      "answer": "Gender, handicaps, boarding school availability, and financial aid"
+    },
+    {
+      "question": "Which ensemble method achieved the highest AUC score of 0.80, tied with Logistic Regression (LR)?",
+      "options": [
+        "Bagging",
+        "Boosting",
+        "Stacking",
+        "Naïve Bayes (NB)"
+      ],
+      "answer": "Stacking"
+    },
+    {
+      "question": "Which model achieved the highest dropout precision (D Precision) of 0.35, making it most accurate when predicting dropouts?",
+      "options": [
+        "Stacking",
+        "Boosted Trees",
+        "Soft Voting",
+        "Logistic Regression"
+      ],
+      "answer": "Boosted Trees"
+    },
+    {
+      "question": "Which model was identified as the fairest for gender, achieving the lowest ABROCA score?",
+      "options": [
+        "Bagged Trees",
+        "Boosted Trees",
+        "Naïve Bayes (NB)",
+        "Logistic Regression"
+      ],
+      "answer": "Naïve Bayes (NB)"
+    },
+    {
+      "question": "Which model exhibited the lowest bias for financial aid status, with an ABROCA score of 0.0119?",
+      "options": [
+        "Bagged Trees",
+        "Boosted Trees",
+        "Naïve Bayes (NB)",
+        "Decision Trees (DT)"
+      ],
+      "answer": "Naïve Bayes (NB)"
+    },
+    {
+      "question": "Which models showed the lowest bias for students with handicaps according to ABROCA scores?",
+      "options": [
+        "Bagged Trees and Logistic Regression",
+        "Naïve Bayes and Soft Voting",
+        "Boosted Trees and Decision Trees",
+        "Stacking and Hard Voting"
+      ],
+      "answer": "Bagged Trees and Logistic Regression"
+    },
+    {
+      "question": "Which ensemble methods showed enhanced fairness for certain attributes such as disability and financial aid?",
+      "options": [
+        "Voting and stacking",
+        "Bagging and boosting",
+        "Logistic Regression and Naïve Bayes",
+        "Decision Trees and Random Forests"
+      ],
+      "answer": "Bagging and boosting"
+    },
+    {
+      "question": "Which non-ensemble model performed comparably to ensemble methods in terms of fairness across multiple sensitive attributes?",
+      "options": [
+        "Decision Trees (DT)",
+        "Naïve Bayes (NB)",
+        "Logistic Regression (LR)",
+        "Support Vector Machine (SVM)"
+      ],
+      "answer": "Logistic Regression (LR)"
+    },
+    {
+      "question": "Which ensemble method exhibited the highest bias for students with handicaps?",
+      "options": [
+        "Boosting",
+        "Bagging",
+        "Hard Voting",
+        "Stacking"
+      ],
+      "answer": "Hard Voting"
+    },
+    {
+      "question": "Despite achieving the best AUC of 0.80, which ensemble method did not significantly improve fairness?",
+      "options": [
+        "Boosting",
+        "Bagging",
+        "Stacking",
+        "Soft Voting"
+      ],
+      "answer": "Stacking"
+    },
+    {
+      "question": "What was the average ABROCA score for boosted trees, the best ensemble model in terms of fairness?",
+      "options": [
+        "0.052",
+        "0.049",
+        "0.080",
+        "0.019"
+      ],
+      "answer": "0.052"
+    },
+    {
+      "question": "What conclusion did the study reach about the relationship between model complexity and fairness?",
+      "options": [
+        "More complex models always guarantee fairness",
+        "Fairness improves only when AUC increases",
+        "Increasing model complexity does not guarantee equitable predictions",
+        "Ensemble methods are always less fair than simpler models"
+      ],
+      "answer": "Increasing model complexity does not guarantee equitable predictions"
+    },
+    {
+      "question": "Which future direction is suggested for fairness-aware ensemble learning?",
+      "options": [
+        "Adding more dropout categories",
+        "Incorporating fairness constraints into ensemble techniques",
+        "Replacing ensembles with simpler models only",
+        "Focusing solely on predictive performance"
+      ],
+      "answer": "Incorporating fairness constraints into ensemble techniques"
+    }
+  ],
+  "url": "https://google.com"
+}
