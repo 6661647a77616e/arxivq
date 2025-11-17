@@ -1,0 +1,36 @@
+# Example TOON dataset file
+# Token-Oriented Object Notation format
+{
+  questions: [
+    {
+      question: "What is the fundamental principle behind quantum entanglement?",
+      options: [
+        "A. Particles can communicate faster than light",
+        "B. The quantum state of one particle is correlated with another, regardless of distance",
+        "C. Particles merge into a single entity",
+        "D. Energy is conserved across entangled systems"
+      ],
+      answer: "B"
+    },
+    {
+      question: "In the context of machine learning, what does 'overfitting' mean?",
+      options: [
+        "A. The model has too many parameters",
+        "B. The model performs well on training data but poorly on new data",
+        "C. The training takes too long",
+        "D. The model cannot learn from the data"
+      ],
+      answer: "B"
+    },
+    {
+      question: "What is the significance of the Higgs boson in particle physics?",
+      options: [
+        "A. It explains dark matter",
+        "B. It mediates the electromagnetic force",
+        "C. It gives mass to other fundamental particles",
+        "D. It is the smallest known particle"
+      ],
+      answer: "C"
+    }
+  ]
+}

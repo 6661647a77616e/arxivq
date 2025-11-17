@@ -8,6 +8,7 @@ import { datasets } from "@/components/data/datasets"
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import type { DatasetEntry } from "@/components/data/datasets"
+import { useRemoteDatasets } from "@/components/hooks/useRemoteDatasets"
 
 // Extract paper ID from arXiv URL
 function extractPaperId(url: string): string | null {
@@ -28,10 +29,29 @@ export default function Page() {
   const [successMessage, setSuccessMessage] = useState<string | null>(null)
   const [dynamicDatasets, setDynamicDatasets] = useState<DatasetEntry[]>([])
 
-  // Combine static and dynamic datasets
+  // Fetch remote datasets from API
+  const { datasets: remoteDatasets, loading: remoteDatasetsLoading, error: remoteDatasetsError } = useRemoteDatasets()
+
+  // Combine static, remote, and dynamic datasets
   const allDatasets = useMemo(() => {
-    return [...datasets, ...dynamicDatasets]
-  }, [dynamicDatasets])
+    // Start with static fallback datasets
+    const combined = [...datasets]
+    
+    // Add remote datasets if available (avoiding duplicates by key)
+    if (remoteDatasets.length > 0) {
+      const existingKeys = new Set(combined.map(d => d.key))
+      for (const rd of remoteDatasets) {
+        if (!existingKeys.has(rd.key)) {
+          combined.push(rd)
+        }
+      }
+    }
+    
+    // Add dynamic datasets (generated papers)
+    combined.push(...dynamicDatasets)
+    
+    return combined
+  }, [remoteDatasets, dynamicDatasets])
 
   // Handle source change - load questions for dynamic papers
   const handleSourceChange = (newSource: string) => {
