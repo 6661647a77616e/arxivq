@@ -1,0 +1,107 @@
+questions: items[15]:
+    - question: What is the primary innovation introduced by ArcMemo in augmenting LLMs for reasoning-intensive tasks?
+    options: items[4]:
+        - A. Using instance-level memory entries tied to specific queries
+        - B. Applying retrieval-augmented generation (RAG) techniques
+        - C. Storing concept-level abstractions that are abstracted and modular
+        - D. Fine-tuning the model weights during inference
+    answer: C
+    - question: Which two memory formats are explored in ArcMemo for storing abstractions?
+    options: items[4]:
+        - Instance-level and dynamic cheatsheet
+        - Open-Ended (OE) and Program Synthesis (PS)
+        - Embedding-based and structured triples
+        - Retrieval-augmented and vector embeddings
+    answer: Open-Ended (OE) and Program Synthesis (PS)
+    - question: On the ARC-AGI-1 benchmark, what relative performance gain does ArcMemo-PS achieve over the no-memory baseline?
+    options: items[4]:
+        - About 2% relative gain
+        - About 5% relative gain
+        - About 7.5% relative gain
+        - About 10% relative gain
+    answer: About 7.5% relative gain
+    - question: Why is concept selection important in the ArcMemo framework?
+    options: items[4]:
+        - To always retrieve all memories for maximum coverage
+        - To limit context size and include only the most relevant memory entries
+        - To overwrite older memories with new ones
+        - To increase token usage for thorough reasoning
+    answer: To limit context size and include only the most relevant memory entries
+    - question: What advantage does continual memory updating at test time provide?
+    options: items[4]:
+        - It reduces compute requirements
+        - It enables self-improvement and solving more problems over time
+        - It eliminates the need for memory selection
+        - It leads to lower Oracle@k scores
+    answer: It enables self-improvement and solving more problems over time
+    - question: What is the main capability that the authors isolate and study in the paper to understand LLM failures on long-tasks?
+    options: items[4]:
+        - Planning ability
+        - Execution capability
+        - Knowledge retrieval
+        - Reasoning under tool usage
+    answer: Execution capability
+    - question: What synthetic task do the authors use to decouple planning and knowledge from execution?
+    options: items[4]:
+        - Multi-step logical reasoning
+        - Key-value dictionary addition with running sum
+        - Translating progressively longer sentences
+        - Playing board game moves
+    answer: Key-value dictionary addition with running sum
+    - question: Which of the following metrics measures the number of steps a model can complete without any mistake with at least a certain success probability?
+    options: items[4]:
+        - Step Accuracy
+        - Turn Accuracy
+        - Task Accuracy
+        - Horizon Length
+    answer: Horizon Length
+    - question: What is the self-conditioning effect, according to this paper?
+    options: items[4]:
+        - Models conditioning on a fixed plan rather than adapting
+        - Models getting more likely to err after observing their own previous mistakes
+        - Models gradually improving performance after each turn
+        - Models overfitting to the context window size
+    answer: Models getting more likely to err after observing their own previous mistakes
+    - question: Does scaling the size of non-thinking LLMs fully eliminate self-conditioning?
+    options: items[4]:
+        - Yes, larger model size removes self-conditioning
+        - No, self-conditioning persists even in large non-thinking models
+        - Only if turn complexity is low
+        - Only if planning is removed
+    answer: No, self-conditioning persists even in large non-thinking models
+    - question: What effect does introducing ‘thinking’ (e.g. chain-of-thought or reasoning traces) have on self-conditioning?
+    options: items[4]:
+        - Makes self-conditioning worse
+        - Completely removes errors in single-step accuracy
+        - Fixes or mitigates self-conditioning effect
+        - Has no observable effect
+    answer: Fixes or mitigates self-conditioning effect
+    - question: In the experiments, what happens to task accuracy of large models as the number of turns (with turn complexity K=1) increases?
+    options: items[4]:
+        - Stays near 100% even after many turns
+        - Drops rapidly, often falling below 50% within a modest number of turns
+        - Increases as model “learns” from context
+        - Remains constant across small and large models
+    answer: Drops rapidly, often falling below 50% within a modest number of turns
+    - question: Which model was found to execute over 1000 steps in a single turn under the benchmark for single-turn execution with ≥ 80% accuracy?
+    options: items[4]:
+        - Claude-4 Sonnet
+        - Gemini 2.5 Pro
+        - GPT-5 (Horizon)
+        - DeepSeek-V3
+    answer: GPT-5 (Horizon)
+    - question: What mitigation strategy do the authors test that involves limiting how much past history (including past errors) is visible to the model?
+    options: items[4]:
+        - Self-verification prompting
+        - Chain-of-thought prompting
+        - Context management via sliding window
+        - Tool-augmented execution
+    answer: Context management via sliding window
+    - question: What is task accuracy in the authors’ formulation?
+    options: items[4]:
+        - The fraction of samples where a single step from turn t-1 to t is correct
+        - The fraction of samples where all steps in a task of length i are executed correctly with no mistakes
+        - The model’s ability to retrieve plan keys
+        - The model generates reasoning traces correctly
+    answer: The fraction of samples where all steps in a task of length i are executed correctly with no mistakes
+url: https://google.com
